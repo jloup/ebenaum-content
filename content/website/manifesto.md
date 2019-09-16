@@ -2,3 +2,5 @@
 title: Manifesto
 ---
 Test
+
+Modifications
