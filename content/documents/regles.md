@@ -35,7 +35,7 @@ C’est donc un monde sans divinités ni lois, où la connaissance du monde est 
 Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Considérez que le “livre du monde” fera partie de votre fiche de personnage qui arrivera donc plus tard.
 
 ## Cosmonogie et géographie
-\img(https://dev.ebenaum.fr/img/weather.png, float-right)
+\img(/img/weather.png, float-right)
 Tout ce que vous savez de la géographie du monde, sauf exception, est qu’il est bordé par un océan extérieur, peu peuplé, et qu’à son centre gît une “mer” intérieure, au milieu de laquelle se tiendrait un arbre gigantesque, entouré par des “livres” qui donnent à leur porteur la capacité de donner vie à son imagination.
 
 Le jour commence lorsqu’une bête composée de flammes nommée “Feulion” s’élance sur la “voûte céleste”, qu’elle met une “journée” à parcourir. Lorsqu’elle disparaît, des diamants lumineux prennent le relais, assistés par ce que vous connaissez comme un “trou” dans la voûte céleste, diffusante une intense lumière blanche (l’équivalent de notre lune).
