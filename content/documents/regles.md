@@ -1,4 +1,5 @@
 ## Introduction
+Introduction
 Olà, companerõs ! Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, dans lequel survivent des âmes courageuses tentant tant bien que mal d’édifier en ce monde un semblant de civilisation.
 
 Si tu ne connais pas Ebenaum, sache que nous mettons un point d’honneur à animer le patrimoine, notamment de la région Centre, en rapprochant les gens grâce à des jeux et des créations autour du théâtre de l’Imaginaire ! Nous souhaitons permettre à chacun de découvrir nos univers, débutants ou non, tout en apportant une touche d’humour et de fraîcheur dans le monde du GN !
