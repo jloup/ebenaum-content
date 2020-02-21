@@ -2,9 +2,7 @@
 
 ## Introduction
 
-\img(/img/Logo.jpg, logo, ,w350)
-Greetings, companerõs !  
-Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
+Greetings, companerõs !  Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
 Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi à ton trépas), en commençant par une présentation générale des règles d’un jeu de rôle grandeur nature, que nous te conseillons de lire, même si tu es un·e vétéran du genre. On te voit, là, en train de chercher à scroller directement à la section “tuer des gens”.  
  
 Nous avons voulu créer des mécaniques à la fois simples et innovantes tout en étant empreintes d’une nostalgie de l’époque où les pyramides et les polyèdres engravés de runes numériques (des dés, quoi) régnaient sur le monde du jeu de rôles sur table.  
@@ -48,7 +46,11 @@ De manière générale, attendez-vous dans nos Gns à de l'humour décalé, des 
 Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : *le combat, l’utilisation de compétences, et les actions de jeu.* 
 
 ## (Sur)Vivre et mourir en Erenthrym 
-Les mondes d’Erenthrym et d’Ebenaum sont peuplés de différentes créatures, que l’on regroupe pour la plupart dans des “espèces”. Vous saurez de manière générale peu de choses sur les autres espèces que la vôtre, mais il va de soi que chacune d’entre elles possède une morphologie spécifique, et donc que les règles qui lui permettent de vivre sont différentes.  
+
+Les mondes d’Erenthrym et d’Ebenaum sont peuplés de différentes créatures, que l’on regroupe pour la plupart dans des “espèces”. Vous saurez de manière générale peu de choses sur les autres espèces que la vôtre, mais il va de soi que chacune d’entre elles possède une morphologie spécifique, et donc que les règles qui lui permettent de vivre sont différentes.
+
+\img(/img/Hennessy.jpg, Henessy, center, w400)
+  
 Cependant, et notamment pour des raisons de jouabilité, la plupart des espèces fonctionnent avec un système de points de vie (PV), qui, une fois perdus, demanderont des soins pour être récupérés.  
 Mais comme vous l’aurez compris, certaines personnes auront le don de pouvoir se régénérer, d’autres n’auront pas de points de vie mais des points d’esprits, etc... Attendez-vous donc peut-être à des surprises.  
 -table-Règles de vie:  
@@ -64,8 +66,6 @@ Lit de camp | Une personne “agonisante” ou blessée transportée dans le “
 __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à tenir compte malgré tout qu’un coup dans un membre vous fait souffrir ce membre en particulier. Plusieurs coups dans la même jambe devraient vous empêcher de vous en servir, par exemple.__ 
 
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
-
-\img(/img/Hennessy.jpg, Henessy, center, w400)
 
 ##Actions de jeu
 
@@ -97,12 +97,12 @@ Pour créer votre personnage, vous aurez à choisir :
 a l’opposé des compétences qu’il vous faut « acquérir » lors de la création de personnage, les actions spéciales sont des actions accessibles à tout le monde. Attention, certains personnages peuvent être insensibles à ces actions. Ils vous en avertiront. 
 __De plus, en rappel de ce qui est évoqué en préambule, vérifiez toujours que vous avez l'accord de l'autre joueur pour toute scène qui pourrait impliquer un contact physique ou un inconfort. Et restez à l'écoute de la victime pour vérifier qu'elle supporte bien la scène, et qu'elle coopère. La scène n'en sera que meilleure. Sinon, tant pis, faites autrement. __
 -table- 
-|Liste des actions spéciales 
-ACHEVER | lorsqu’une victime est à terre, agonisante et gémissante et que vous voulez la faire taire, approchez-vous doucement, sans brutalité, et posez votre arme sur son épaule (délicatement), en faisant un geste de trancher son épaule. Puis annoncez “Achever. Tu ne peux plus parler ou bouger”
-STABILISER | Si vous repérez une personne agonisante, vous pouvez vous en approcher, et lui prendre la main ou rester près d’elle pour la “stabiliser”. En faisant cela, vous prolongez son agonie de 5 minutes à 15 minutes. Vous pouvez aussi la déplacer (en mimant que vous la portez par les épaules à bras le corps.
-REMBOITER | Vous pouvez aider une personne à “soigner” un membre brisé en mimant la scène. Faites un Chifoumi. Si vous perdez, vous infligez SOUFFRANCE au lieu de le soigner.
-FOUILLER | Approchez-vous auprès de la victime, et mettez une main au-dessus (sans contact) de l’objet ou la partie du corps que vous voulez fouiller. La personne doit vous dire si vous y trouvez un objet. Il n’est pas possible de dire “je te fouille toutes tes poches”.
-LUTTE | En dehors d’un combat (ou alors de façon délicate) posez votre main sur l’épaule d’une personne et annoncez-lui discrètement “DUEL”. Faites un Chifoumi. Celle ou celui qui gagne infligera “UN CHOC” à l’autre. Mimez ensuite la scène.
+Action |Description 
+Achever | Lorsqu’une victime est à terre, agonisante et gémissante et que vous voulez la faire taire, approchez-vous doucement, sans brutalité, et posez votre arme sur son épaule (délicatement), en faisant un geste de trancher son épaule. Puis annoncez “Achever. Tu ne peux plus parler ou bouger”
+Stabiliser | Si vous repérez une personne agonisante, vous pouvez vous en approcher, et lui prendre la main ou rester près d’elle pour la “stabiliser”. En faisant cela, vous prolongez son agonie de 5 minutes à 15 minutes. Vous pouvez aussi la déplacer (en mimant que vous la portez par les épaules à bras le corps.
+Remboiter | Vous pouvez aider une personne à “soigner” un membre brisé en mimant la scène. Faites un Chifoumi. Si vous perdez, vous infligez SOUFFRANCE au lieu de le soigner.
+Fouiller | Approchez-vous auprès de la victime, et mettez une main au-dessus (sans contact) de l’objet ou la partie du corps que vous voulez fouiller. La personne doit vous dire si vous y trouvez un objet. Il n’est pas possible de dire “je te fouille toutes tes poches”.
+Lutte | En dehors d’un combat (ou alors de façon délicate) posez votre main sur l’épaule d’une personne et annoncez-lui discrètement “DUEL”. Faites un Chifoumi. Celle ou celui qui gagne infligera “UN CHOC” à l’autre. Mimez ensuite la scène.
 -table-
 
 ##Caractéristiques
@@ -131,30 +131,30 @@ __Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur
 Les “EFFETS” sont des mots-clés qui représentent des indications de jeu. Certaines compétences (skills) auront peut-être des EFFETS un peu exotiques, qui pourront au besoin être expliqués par un Orga ou par les joueurs·es, mais voici déjà la liste des effets les plus courants, à apprendre par cœur (y aura peut-être un contrôle !). 
  -table-
 Appel | Description
-SOUFFRANCE	|Vous vous tordez de douleur 5 à 10 secondes. Vous ne pouvez rien faire d'autre mais êtes insensible aux dégâts.					
-SOUFFR. MENTALE|	Comme Souffrance, mais n'étant pas physique, vous ne pouvez pas y résister à moins d'une compétence spéciale.				
-EXECUTION|	Vous faites tomber à 0 PV, et vous ne pouvez plus gémir ou gesticuler lors de votre agonie. 					
-CHOC|	Vous subissez un choc et reculez de 5 pas, voire tombez au sol. Vous pouvez aussi jouer un étourdissement.					
-PEUR|	Vous vous enfuyez en hurlant loin de la cible pendant 5 à 10 secondes.					
-REPOUSSER |	Vous devez vous tenir hors de portée d'arme de la cible avec méfiance.					
-ENTORSE |	Vous ne pouvez plus utiliser le membre visé tant qu'il n'aura pas été remis par un ami.					
-DESARMER|	Vous devez jeter votre arme comme si quelqu'un venait de frapper dans votre main					
-INJONCTION |	vous devez obéir à l'ordre simple qui vous sera donné ensuite.					
-RESISTE|	Permet d'annuler un effet. Attention, on peut résister à un effet sans forcément l'annoncer. 					
-APAISEMENT|	Arrête les effets d'une Souffrance.					
-ESQUIVE|	La personne ne sent pas les coups. Merci de l'ignorer et ne pas vous acharner sur elle					
-DETECTION|	Vous devez répondre "ICI" si vous entendez cet Appel.					
-couronne bleue|	A proximité de cette personne (longueur d'arme) vous résistez à PEUR et EFFROI.					
-couronne jaune|	Cette personne impose un certain respect ou dégage une aura de charisme et confiance.				
-couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.					
-... MAGIQUE|	Rien ne vous permet de résister à cette attaque ou Skill.					
-... CONTAGIEUX|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
-... PUISSANT|	Considérez que l'effet est doublé ou triplé.					
-... DE MENTAL 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
+Souffrance	|Vous vous tordez de douleur 5 à 10 secondes. Vous ne pouvez rien faire d'autre mais êtes insensible aux dégâts.					
+Souffrance Mentale|	Comme Souffrance, mais n'étant pas physique, vous ne pouvez pas y résister à moins d'une compétence spéciale.				
+Exécution |	Vous faites tomber à 0 PV, et vous ne pouvez plus gémir ou gesticuler lors de votre agonie. 					
+Choc |	Vous subissez un choc et reculez de 5 pas, voire tombez au sol. Vous pouvez aussi jouer un étourdissement.					
+Peur |	Vous vous enfuyez en hurlant loin de la cible pendant 5 à 10 secondes.					
+Repousser |	Vous devez vous tenir hors de portée d'arme de la cible avec méfiance.					
+Entorse |	Vous ne pouvez plus utiliser le membre visé tant qu'il n'aura pas été remis par un ami.					
+Désarmer|	Vous devez jeter votre arme comme si quelqu'un venait de frapper dans votre main					
+Injonction |	vous devez obéir à l'ordre simple qui vous sera donné ensuite.					
+Résiste|	Permet d'annuler un effet. Attention, on peut résister à un effet sans forcément l'annoncer. 					
+Apaisement|	Arrête les effets d'une Souffrance.					
+Esquive|	La personne ne sent pas les coups. Merci de l'ignorer et ne pas vous acharner sur elle					
+Détection|	Vous devez répondre "ICI" si vous entendez cet Appel.					
+Couronne Bleue|	A proximité de cette personne (longueur d'arme) vous résistez à PEUR et EFFROI.					
+Couronne Jaune|	Cette personne impose un certain respect ou dégage une aura de charisme et confiance.				
+Couronne Rouge|	Cette personne dégage un effet d'EFFROI en permanence.					
+... Magique|	Rien ne vous permet de résister à cette attaque ou Skill.					
+... Contagieux|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
+... Puissant|	Considérez que l'effet est doublé ou triplé.					
+... De Mental 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
 
 ##Inventaire
-\img(/img/GustaveBrion.jpg, Gustave Brion, right, w250)
+
 Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
 Il pourra aussi éventuellement être possible de fabriquer certains objets. 
 
@@ -182,25 +182,13 @@ Chaînes et cadenas éprouvés|	Pour s'assurer que leurs prisonniers ou objets d
 Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou securiser une porte. Peut être tranchée.
 -table-		
 
+\img(/img/GustaveBrion.jpg, Gustave Brion, center, w300)
 
 ##Un mot sur la magie
 
 \img(/img/winter.png, Winter, right, w300)
 
 Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
-
-
-#Règles Logistiques
-
-##Arrêt de jeu et Safe Word
-
-Le jeu peut être arrêté ponctuellement pour trois raisons:
-
-Il peut arriver que pour des raisons de scénarios, les Orgas doivent interrompre le jeu. Ils crieront alors *TIME FREEZE*. Vous devez alors vous figer, comme une statue, et fermer les yeux jusqu’à entendre *TIME IN*. Dans ces moments, il est possible que l’on vous décrive une scène ou une action. Ou bien qu’un costume aux relents de souffre couvert de ce qui pourraient être des écailles vous frôle sans un bruit.  Qui sait? 
-
-Il peut aussi arriver de façon plus intime qu’un joueur·se doive passer en mode “HRP” (Hors-jeu). Pour cela, levez un poing fermé au-dessus de votre visage. On considère alors que la personne n’est tout simplement pas visible.  
-
-Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui vous est inconfortable physiquement ou psychiquement nous vous invitons à le faire savoir sur le champ en disant *“STOP HORS JEU”*. Ceci doit véritablement arrêter le jeu et passer de la relation de personnages à de la relation entre des personnes. Lorsque le danger est écarté vous pourrez dire *“REPRISE DU JEU”*.
 
 ## Combat 
 La sécurité doit être la priorité et tout comportement dangereux pourra potentiellement mener à une exclusion du GN. *Seules les armes en mousse et en latex qui auront passé la validation par les Orgas seront autorisées*. Elles seront marquées par un morceau de tissu rouge.  Nous préférerions éviter les armes en mousse injectées, ou de manière générale toute arme un peu dure. Le combat au corps à corps est interdit, OU doit être mimé sans risques de coups réels. \img(/img/mercy.jpg, Mercy, right)
@@ -223,30 +211,50 @@ Pour des raisons très pratiques, nous avons décidé de représenter la barriè
 Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
 __Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
+
+# Sécurité
+
+##Arrêt de jeu et Safe Word
+
+Le jeu peut être arrêté ponctuellement pour trois raisons:
+
+Il peut arriver que pour des raisons de scénarios, les Orgas doivent interrompre le jeu. Ils crieront alors *TIME FREEZE*. Vous devez alors vous figer, comme une statue, et fermer les yeux jusqu’à entendre *TIME IN*. Dans ces moments, il est possible que l’on vous décrive une scène ou une action. Ou bien qu’un costume aux relents de souffre couvert de ce qui pourraient être des écailles vous frôle sans un bruit.  Qui sait? 
+
+Il peut aussi arriver de façon plus intime qu’un joueur·se doive passer en mode “HRP” (Hors-jeu). Pour cela, levez un poing fermé au-dessus de votre visage. On considère alors que la personne n’est tout simplement pas visible.  
+
+Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui vous est inconfortable physiquement ou psychiquement nous vous invitons à le faire savoir sur le champ en disant *“STOP HORS JEU”*. Ceci doit véritablement arrêter le jeu et passer de la relation de personnages à de la relation entre des personnes. Lorsque le danger est écarté vous pourrez dire *“REPRISE DU JEU”*.
+
+##Alcool et autres substances 
+Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
+Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
+Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
+
 ##Types d'acteurs
 Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
 -table-
 
-Bénévoles:| Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
-Secouristes :| joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
-Les PNJ:| bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
-Les PJA :| ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
-Les PJ :| ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
-Les Orgas:| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
+Bénévoles| Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
+Secouristes | joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
+Les PNJ| bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
+Les PJA | ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
+Les PJ | ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
+Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
 -table-
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
+
+# Règles Logistiques
 
 ##Codes couleurs 
 Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femmes enceintes et personnes fragiles sont elles munies d’un bracelet rose fluo. Les personnes qui ont des capacités de secourisme auront un bracelet bleu fluo. Les orgas sont reconnaissables par un bracelet rouge fluo au bras. Les objets portant une vignette ou un ruban vert sont des objets en jeu qui peuvent être volés.
 
 ##Les Repas 
+
+\img(/img/Cheers.jpg, Cheers, right)
+
 Nous prenons en charge les repas du samedi matin au dimanche midi. Nous vous encourageons à apporter un petit plat typique - ou qui pique pas - de votre région pour le vendredi soir (qui selon l’heure de début de GN pourrait potentiellement être en-jeu).
-Il y aura des possibilités de restauration/collation en-dehors des repas, mais nous vous invitons à prévoir quelques grignotages, (sans emballages, naturellement, autant que faire se peut, et un maximum dans le “style” de l’univers pour tout ce qui sera visible dans le terrain en-jeu. Evitez les Snickers ou les paquets de chips). La chair crue reste peu conseillée.
-Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge. \img(/img/Cheers.jpg, Cheers, right)
-##Alcool et autres substances 
-Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
-Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
-Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
+Il y aura des possibilités de restauration/collation en-dehors des repas, mais nous vous invitons à prévoir quelques grignotages, (sans emballages, naturellement, autant que faire se peut, et un maximum dans le “style” de l’univers pour tout ce qui sera visible dans le terrain en-jeu. Evitez les Snickers ou les paquets de chips). Manger un animal mort reste peu conseillé.
+Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge.
+
 ##Déchets et environnement 
 
 Zero déchets. \img(/img/Foster.jpg, Foster, left) Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
@@ -258,7 +266,8 @@ Certaines zones du terrain sont strictement interdites, pour des raisons de séc
 Le PC sécurité est ouvert à tout le monde. 
 Le PC orga n’est PAS ouvert à tout le monde. Il y aura un accueil dans lequel vous pourrez poser toutes vos questions et gérer les objets trouvés, mais merci de ne pas aller dans le PC orga à moins d’y être invités·es. (Sauf si vous êtes un PNJ) car vous risquez de vous gâcher des surprises ou de perturber/ralentir le déroulement du jeu !
 Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours, cela étant, nous ne pouvons pas totalement prévenir l’apparition de touristes sauvages. Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
-##Hygiène et sommeil
+
+## Hygiène et sommeil
 le terrain comporte des toilettes sèches, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. \img(/img/hildegunds.jpg, Duel, right) 
 Comme pour toute activité en extérieur en été, pensez à vous prémunir contre les bestioles rampantes et les insectes, notamment à vérifier chaque soir si vous n'avez pas récolté quelques tiques ! 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
@@ -266,7 +275,6 @@ Il y aura deux types de camps, selon votre matériel de couchage : soit un camp 
 Le jeu ne s’arrête pas pendant les repas ni pendant la nuit. Cependant, de 1h à 8h,  Les joueurs·ses voulant continuer à jouer peuvent le faire à l’écart des tentes personnelles pour respecter le repos des personnes en ayant besoin. 
 
 ##Paquetage 
-
 
 Pour que votre GN se passe dans les meilleures conditions voici une petite liste non exhaustive de choses qui pourraient vous être utiles et auxquelles vous pourriez ne pas forcément penser...
 
@@ -280,7 +288,9 @@ Il y aura si tout va bien quelques douches solaires sur le site mais n’hésite
 - *Une lampe torche* : ne pourra être utilisée que dans des moments hors-jeu, ou si vous choisissez dans l’inventaire l’objet “Fée en cage”
 - *Une montre* (surtout pour les PNJ ).Ne mettez pas en danger vos smartphones.
 - *Votre vaisselle* : en bois ou en métal, c'est plus résistant et plus d'époque.
-##Votre arrivée
+
+## Votre arrivée
+
 Le jeu se déroulera à XXXXXXXXXXX
 Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part. Des navettes depuis la grande gare la plus proche seront mises en place au besoin. 
 Lorsque vous arrivez, vous pouvez vous garer sur le parking temporaire qui sera indiqué. Nous vous demanderons de venir nous prévenir de votre arrivée au PC orga, puis de décharger vos affaires et monter votre camp (vous pourrez éventuellement y aller en voiture). Vous devrez ensuite garer votre voiture au parking. Puis vous irez voir votre référent·e au PC orga pour un briefing personnel si besoin, et surtout recevoir votre enveloppe de jeu. Si vous n’avez pas pu trouver d’imprimante, on pourra vous imprimer votre feuille ou un livret. Ensuite, il sera temps pour vous d’aller vous pouponner et de venir ripailler. 
@@ -289,14 +299,11 @@ Nous vous conseillons d’arriver en début d’après-midi afin de vous install
 __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas à rester pour prolonger l'aventure !__
 \img(/img/duel.jpg, Duel)
 
-
-
-#Ce que vous savez du monde...
-
+# Ce que vous savez du monde...
 
 Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Le “livre du monde” correspondant aux connaissances précises de votre personnage selon son histoire fera partie de votre fiche de personnage qui arrivera donc plus tard. 
 
-##Les "factions" de départ
+## Les "factions" de départ
 
 Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
 *Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ? Parfait pour les vétérans d'Ebenaum ou si vous venez seul ou à deux ou trois personnes. Cependant, ce groupe est soumis à des pressions importantes !
@@ -316,8 +323,6 @@ Avant de vous ruer sur nos mails, messenger et autres pour nous demander où est
 Nous finissons avec une galerie de portrait des différents orgas, pour que vous sachiez qui vous allez devoir agresser pour trouver vos réponses ! 
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
-
-\img(/img/ebenaum.png, Blaireau, ,w300)
 
 
  
