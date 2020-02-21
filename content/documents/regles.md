@@ -63,7 +63,7 @@ __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à te
 
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
 
-\img(/img/Hennessy.jpg,)
+\img(/img/Hennessy.jpg, Henessy, center)
 
 ##Actions de jeu
 Dans un Jeu de rôle, la plupart des choses sont à accomplir vous-même. Pour esquiver des coups de hache, ce sera à vous de vous dérouiller les genoux. Les compétences sont là pour représenter des capacités exceptionnelles -comme par exemple désarmer à coup sûr un ou une adversaire- mais vous avez le droit de tenter de désarmer quelqu’un par vos talents propres, tant que vous respectez les règles de jeu et de sécurité.  
@@ -143,7 +143,7 @@ couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.
 ... PUISSANT|	Considérez que l'effet est doublé ou triplé.					
 ... DE MENTAL 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
-\img(/img/GustaveBrion.jpg, float-right)
+\img(/img/GustaveBrion.jpg, Gustave Brion, right)
 ##Inventaire
  Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
 Il pourra aussi éventuellement être possible de fabriquer certains objets. 
@@ -174,7 +174,7 @@ Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou
 
 
 ##Un mot sur la magie
-\img(/img/winter.png, float-right)
+\img(/img/winter.png, Winter, right)
 Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
 
 
@@ -195,7 +195,7 @@ Il peut aussi arriver de façon plus intime qu’un joueur·se doive passer en m
 Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui vous est inconfortable physiquement ou psychiquement nous vous invitons à le faire savoir sur le champ en disant *“STOP HORS JEU”*. Ceci doit véritablement arrêter le jeu et passer de la relation de personnages à de la relation entre des personnes. Lorsque le danger est écarté vous pourrez dire *“REPRISE DU JEU”*.
 
 ## Combat 
-La sécurité doit être la priorité et tout comportement dangereux pourra potentiellement mener à une exclusion du GN. *Seules les armes en mousse et en latex qui auront passé la validation par les Orgas seront autorisées*. Elles seront marquées par un morceau de tissu rouge.  Nous préférerions éviter les armes en mousse injectées, ou de manière générale toute arme un peu dure. Le combat au corps à corps est interdit, OU doit être mimé sans risques de coups réels. \img(/img/mercy.jpg, float-right)
+La sécurité doit être la priorité et tout comportement dangereux pourra potentiellement mener à une exclusion du GN. *Seules les armes en mousse et en latex qui auront passé la validation par les Orgas seront autorisées*. Elles seront marquées par un morceau de tissu rouge.  Nous préférerions éviter les armes en mousse injectées, ou de manière générale toute arme un peu dure. Le combat au corps à corps est interdit, OU doit être mimé sans risques de coups réels. \img(/img/mercy.jpg, Mercy, right)
 Sont totalement proscrits, sous peine de possible exclusion :
 - *les coups d’estoc* (coup fait pour “planter” ou “percer”), car les armes de Gn possèdent une “âme” solide qui pourrait percer la mousse et cause de vraies blessures.
 - *les coups à la tête*, à la poitrine et à l’entrejambe, qui sont des zones sensibles. 
@@ -209,7 +209,7 @@ La beauté du geste vient ensuite. Nous vous encourageons à représenter le poi
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
 
 ##Langage
-\img(/img/Speak.png, float-left)
+\img(/img/Speak.png, Langage, left)
 Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. 
 Pour des raisons très pratiques, nous avons décidé de représenter la barrière de la langue en demandant aux habitants d’Erenthyrm de devoir parler en anglais, surtout en public. On pourra tolérer que des joueurs d’Erenthyrm se parlent à voix basse en français entre eux, pour représenter leur connivence. Mais la difficulté de diffusion du savoir dans ce monde explique que même avec ceux avec qui on cohabite la communication est difficile. Dans le monde d’Ebenaum, la civilisation est non seulement bien plus sophistiquée, mais également plus diffusée et normalisée, avec l’instauration d’une langue commune en plus des idiomes locaux. 
 Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
@@ -234,14 +234,14 @@ Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femme
 ##Les Repas 
 Nous prenons en charge les repas du samedi matin au dimanche midi. Nous vous encourageons à apporter un petit plat typique - ou qui pique pas - de votre région pour le vendredi soir (qui selon l’heure de début de GN pourrait potentiellement être en-jeu).
 Il y aura des possibilités de restauration/collation en-dehors des repas, mais nous vous invitons à prévoir quelques grignotages, (sans emballages, naturellement, autant que faire se peut, et un maximum dans le “style” de l’univers pour tout ce qui sera visible dans le terrain en-jeu. Evitez les Snickers ou les paquets de chips). La chair crue reste peu conseillée.
-Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge. \img(/img/Cheers.jpg, float-right)
+Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge. \img(/img/Cheers.jpg, Cheers, right)
 ##Alcool et autres substances 
 Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
 Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
 ##Déchets et environnement 
 
-Zero déchets. \img(/img/Foster.jpg, float-left) Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
+Zero déchets. \img(/img/Foster.jpg, Foster, left) Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
 Dans l’hypothèse où nous parviendrions, selon nos plans, à installer des douches sur place, nous vous demandons de n’utiliser que des produits hygiéniques biodégradables. 
 Le respect de l'environnement de jeu est indispensable, et cela passe par le respect de la flore ET de la faune potentiellement rencontrée sur le site. Cela implique également le voisinage... Cela relève du savoir-vivre de base, mais mérite d'être rappelé. 
 
@@ -277,7 +277,7 @@ Lorsque vous arrivez, vous pouvez vous garer sur le parking temporaire qui sera 
 *Il est important* que vous restiez un maximum dans vos camps en attendant le début du jeu, pour ne pas vous gâcher la surprise ! 
 Nous vous conseillons d’arriver en début d’après-midi afin de vous installer tranquillement et d’être prêts·es  pour le briefing général qui aura lieu à 20h30. Un briefing de groupe et PNJ sera prévu à 21h00 le début de jeu étant prévu pour 21h30.  Si vous arrivez en retard, équipez-vous, puis dirigez-vous vers le PC orga pour qu'un orga vous briefe. Si vous souhaitez arriver avant et/ou rester après jusqu’au lundi pour donner un petit coup de main et ou profiter de la région, vous êtes évidemment les bienvenus·es ;)  
 __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas à rester pour prolonger l'aventure !__
-\img(/img/duel.jpg,)
+\img(/img/duel.jpg, Duel)
 
 
 
@@ -290,7 +290,7 @@ Sans écoles, dans un monde où les histoires sont rares et la survie plus impor
 
 Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
 *Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ? Parfait pour les vétérans d'Ebenaum ou si vous venez seul ou à deux ou trois personnes. Cependant, ce groupe est soumis à des pressions importantes !
-\img(/img/Ven.jpg,float-right)
+\img(/img/Ven.jpg, Ven, right)
 *La Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
 
 *Les voyageurs* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
@@ -307,7 +307,7 @@ Nous finissons avec une galerie de portrait des différents orgas, pour que vous
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 
-\img(/img/blaireau.jpg)
+\img(/img/blaireau.jpg, Blaireau)
 
 
  
