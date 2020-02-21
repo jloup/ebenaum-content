@@ -1,9 +1,4 @@
 
-Lexique :  
-Chifoumi : une partie de Pierre / Feuille / Ciseaux 
-RP : le Roleplay, ou jeu de rôle. C’est le fait de jouer un personnage.  
-Background : l’histoire et la personnalité de votre personnage. 
-PNJ : Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et/où aident à la logistique.
 
 
 
@@ -18,19 +13,28 @@ Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi 
  	Le monde d’Erenthyrm a ceci de surprenant que l’imagination et la magie y sont des ressources rares et surtout indomptées. Bien que ce monde puisse sembler empreint de “féerie”; pour les autochtones, il paraît bien sombre et fade. Les nuits sont obscures, la nourriture se débat, et les rêves sont trop rares pour soulager les esprits occupés à survivre. Mais chut ! Nous n’en dirons pas plus pour ne pas gâcher la surprise des nouveaux arrivants !   
 Nous vous invitons donc à découvrir et bâtir ce monde dans lequel les aventuriers d’Ebenaum vont apporter bien malgré eux leur lot d’humour et d’épique, d’aventure et de mystères !  
 Les informations sur l’univers vous seront données dans vos fiches de personnages fin que chacun garde une part de surprise dans la rencontre avec les autres “camps”. Les règles ci-dessous concernent avant tout les mécaniques de jeu et l’organisation en général. Bonne lecture, et méfiez-vous du Crapaud.  Mais faites confiance à la mycose. Ou ne le faites pas.  
+
+*Lexique*
+__Chifoumi__ : une partie de Pierre / Feuille / Ciseaux 
+__RP__ : le Roleplay, ou jeu de rôle. C’est le fait de jouer un personnage.  
+__Background__ : l’histoire et la personnalité de votre personnage. 
+__PNJ__ : Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et/où aident à la logistique.
+
  
  
-
-
 
 ## Principes généraux 
 Bon, tout d’abord, qu’est-ce qu’un GN ? Nous pensons à toi, jeune inconscient·e qui a été forcé·e de rejoindre notre équipage poussé par quelques personnes persuasives. Laisse-nous t’éclairer... 
 Un Jeu de rôle Grandeur Nature, abrégé donc “GN”, est un jeu dans lequel chaque personne joue un “rôle”, c’est à dire un personnage. Ce personnage a une histoire, des missions à remplir, et des “compétences” particulières. La base du jeu repose sur l’observation, la discussion, et l’interaction. Promenez-vous, posez des questions en lien avec vos missions, faites vivre votre personnage et son histoire, et saisissez les opportunités qui se présentent. Pour interagir avec les autres, hormis les compétences particulières, vous n’aurez pas besoin de décrire une action, mais simplement de la faire. Si vous voulez voler un parchemin oublié sur une table, faites-le. Tant que cela reste dans les règles. L’important est de garder le rôle un maximum. C’est ce qu’on appelle le Roleplay (RP), même s’il est bien sûr autorisé de faire des “pauses” dans le jeu pour sortir du personnage quand vous le voulez. Cependant, comme dans un film, les interruptions ont tendance à casser l’immersion. Imaginez si dans un film d’action, l’acteur·rice faisait une pause en plein combat pour demander à ce qu’un·e assistant·e vienne le recoiffer... Il est donc conseillé de s’assurer que les autres joueurs·ses sont aussi prêts à faire une pause, et rester discret si possible, ou alors se mettre en retrait. Nous ne sommes pas draconique, on peut tous faire des pauses et rigoler hors du jeu, mais essayons de ne pas briser l’élan des autres joueurs·ses !
 Cela étant, et nous insistons là-dessus, les premiers principes qui doivent régir le déroulement du jeu sont la légalité, la sécurité, l’éthique, le respect et l’amusement. En somme, même si cela peut sembler évident, *aucune situation de jeu ne peut justifier un comportement illégal, qui irait contre l’éthique (notamment l’écologie, le consentement, la discrimination “réelle”, un joueur qui ferait preuve de mal être ou de détresse…), la sécurité, et le respect mutuel de l’amusement de chacun*. Si vous n’aimez pas la façon dont quelqu’un joue, rien ne vous force à jouer avec lui. En cas de conflit, levez le poing et venez nous voir. Tout le monde est là pour passer un bon moment de cohésion et d’amusement dans un cadre de sécurité physique ET morale. 
 Il faut autant que possible respecter le jeu des autres tant que cela ne nuit pas à l’éthique et aux règles. C’est à dire que si tu fais une pause cigarette et qu’un·e autre joueur·se vient défier en duel le champion de votre groupe, il est quelque peu malvenu de lui lancer “heu, ouais, attends, il finit sa clope et il arrive. T’veux une bière en attendant ?”; mieux vaut essayer un maximum de jouer le jeu ou de se mettre assez à l’écart de l’action pour ne pas briser l’immersion !  Mais de la même manière, si tu es en pleine discussion capitale et qu’on t’assassine… et bien c’est le jeu. Même si c’est totalement injuste et avec un mauvais timing.
-De la même manière, le Fair-Play est essentiel au plaisir du jeu : il n’est pas possible de “gagner” le jeu. Le seul objectif du jeu est de vivre des histoires, de rigoler et de créer des aventures ensemble en jouant des rôles. Cela peut passer par la défaite, par la mort ou des situations inconfortables. Perdre un combat peut créer une situation de jeu intéressante. Même mourir peut offrir un très bon moment de jeu, et comptez sur nous pour ne pas vous laisser vous ennuyer si cela devait vous arriver. Mais il n’y aura pas toujours un arbitre derrière vous pour vérifier que vous respectez les règles. C’est à vous d’être honnête et de “jouer le jeu”. Dans nos Gns, nous vous faisons confiance et nous vous laissons gérer vos pouvoirs et actions.  
+De la même manière, le Fair-Play est essentiel au plaisir du jeu : il n’est pas possible de “gagner” le jeu. Le seul objectif du jeu est de vivre des histoires, de rigoler et de créer des aventures ensemble en jouant des rôles. Cela peut passer par la défaite, par la mort ou des situations inconfortables. Perdre un combat peut créer une situation de jeu intéressante. Même mourir peut offrir un très bon moment de jeu, et comptez sur nous pour ne pas vous laisser vous ennuyer si cela devait vous arriver. Mais il n’y aura pas toujours un arbitre derrière vous pour vérifier que vous respectez les règles. C’est à vous d’être honnête et de “jouer le jeu”. 
+
+Dans nos Gns, nous vous faisons confiance et nous vous laissons gérer vos pouvoirs et actions. Notre objectif est de permettre à des inconnus de pouvoir partager une aventure en immersion le temps d'un week-end, en abordant des problématiques réelles à travers une histoire et un jeu offrant rires et frissons. 
+
+  
 Si jamais vous soupçonnez un joueur·se de “tricher”, partez du principe qu’il ou elle est dans son droit. Jouez le jeu, puis quand il y aura une pause, allez voir un Orga. Il est probable que le joueur·se ait un pouvoir que vous ne connaissez pas.  
-Si jamais vous voyez un joueur·se qui ne respecte pas les règles de base, refusez simplement de jouer avec en l’ignorant, puis venez en parler à un orga. Utilisez toujours en priorité le bon sens, en partant de façon hiérarchique par les notions de sécurité, légalité, éthique, bon sens, règles du jeu, fairplay et fun. 
+Si jamais vous voyez un joueur·se qui ne respecte pas les règles de base, refusez simplement de jouer avec en l’ignorant, puis venez en parler à un orga. Utilisez toujours en priorité le bon sens, en partant de façon hiérarchique par les notions de *sécurité, légalité, éthique, bon sens, règles du jeu, fairplay et fun.* 
 Enfin, gardez à l’esprit que comme chacun·e joue un jeu, il peut arriver que certains personnages vous semblent agressifs, désagréables, ou antipathiques. Attention, n’oubliez pas que tous jouent un rôle et sont peut-être adorables par ailleurs ! Alan Rickman, nous pensons à toi.
 #  Règles du Jeu
 Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : le combat, l’utilisation de compétences, et les actions de jeu. 
@@ -61,7 +65,15 @@ Vous avez par exemple aussi le droit de voler quelqu’un, si vous êtes capable
 De plus, songez toujours au roleplay : par exemple, un soigneur au cœur tendre serait probablement très peu enclin psychologiquement à se lancer dans une action de “torture”... En tout cas hors d’un contexte d’intimité dont nous ne voulons rien savoir.
 Le contact physique est à manier avec respect et précaution. De plus, s’il y a des situations ou rôles que vous ne souhaitez pas jouer dites-le et n’hésitez surtout pas à venir nous en faire part. Nos valeurs clés sont le bien-être, le respect et l’amusement de chacun, avec un maximum de liberté dans les limites de celles des autres !
 ##Création de personnage :  
-Pour créer votre personnage, la méthode la plus simple consiste à vous rendre sur notre formulaire de création de personnage en ligne qui calculera tout pour vous. Vous trouverez sur notre site internet un récapitulatif complet des compétences afin que vous puissiez avoir une vue d’ensemble de celles-ci avant de créer votre personnage. Mais ce n’est pas une phase obligatoire.
+Pour créer votre personnage, la méthode la plus simple consiste à vous rendre sur notre formulaire de création de personnage en ligne qui calculera tout pour vous. (si vous ne le pouvez pas, merci de nous contacter) Vous trouverez sur notre site internet tous les éléments nécessaires à la création de votre personnage dès que cette phase sera lancée. 
+Pour créer votre personnage, vous aurez à choisir : 
+1- le type d'inscription que vous voulez réaliser pour le GN.
+2- le groupe dans lequel vous aimeriez jouer. 
+3- la race de votre personnage
+4- Son "métier"
+5- La répartition de ses points de caractéristiques
+6-  quelques choix d'inventaire et de compétences
+7 - et enfin quelques informations complémentaires pour que les orgas puissent composer votre personnage et inventer vos compétences ! 
 
 ##Actions spéciales
 a l’opposé des compétences qu’il vous faut « acquérir » lors de la création de personnage, les actions spéciales sont des actions accessibles à tout le monde. Attention, certains personnages peuvent être insensibles à ces actions. Ils vous en avertiront. 
@@ -93,8 +105,10 @@ Le niveau d’une caractéristique correspond à celui la branche la plus élev�
 
 ##Inventaire
  Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont dans l’annexe XX.
+Il pourra aussi éventuellement être possible de fabriquer certains objets. 
 
 ##Un mot sur la magie
+Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
 
 #Règles Logistiques
 
@@ -127,6 +141,14 @@ Pour des raisons très pratiques, nous avons décidé de représenter la barriè
 Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
 __Rassurez-vous, il paraît qu’il n’y a que 7% de notre communication qui est verbale !__ 
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
+##Types d'acteurs
+Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
+- Les bénévoles : Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
+- Les secouristes : joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
+- *Les PNJ* : bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
+- *Les PJA* : ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
+- *Les PJ* : ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
+- *Les Orgas* : avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
 ##Codes couleurs 
 Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femmes enceintes et personnes fragiles sont elles munies d’un bracelet rose fluo. Les personnes qui ont des capacités de secourisme auront un bracelet bleu fluo. Les orgas sont reconnaissables par un bracelet rouge fluo au bras. Les objets portant une vignette ou un ruban vert sont des objets en jeu qui peuvent être volés.
