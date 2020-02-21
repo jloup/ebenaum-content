@@ -97,12 +97,12 @@ Pour créer votre personnage, vous aurez à choisir :
 a l’opposé des compétences qu’il vous faut « acquérir » lors de la création de personnage, les actions spéciales sont des actions accessibles à tout le monde. Attention, certains personnages peuvent être insensibles à ces actions. Ils vous en avertiront. 
 __De plus, en rappel de ce qui est évoqué en préambule, vérifiez toujours que vous avez l'accord de l'autre joueur pour toute scène qui pourrait impliquer un contact physique ou un inconfort. Et restez à l'écoute de la victime pour vérifier qu'elle supporte bien la scène, et qu'elle coopère. La scène n'en sera que meilleure. Sinon, tant pis, faites autrement. __
 -table- 
-|Liste des actions spéciales 
-ACHEVER | lorsqu’une victime est à terre, agonisante et gémissante et que vous voulez la faire taire, approchez-vous doucement, sans brutalité, et posez votre arme sur son épaule (délicatement), en faisant un geste de trancher son épaule. Puis annoncez “Achever. Tu ne peux plus parler ou bouger”
-STABILISER | Si vous repérez une personne agonisante, vous pouvez vous en approcher, et lui prendre la main ou rester près d’elle pour la “stabiliser”. En faisant cela, vous prolongez son agonie de 5 minutes à 15 minutes. Vous pouvez aussi la déplacer (en mimant que vous la portez par les épaules à bras le corps.
-REMBOITER | Vous pouvez aider une personne à “soigner” un membre brisé en mimant la scène. Faites un Chifoumi. Si vous perdez, vous infligez SOUFFRANCE au lieu de le soigner.
-FOUILLER | Approchez-vous auprès de la victime, et mettez une main au-dessus (sans contact) de l’objet ou la partie du corps que vous voulez fouiller. La personne doit vous dire si vous y trouvez un objet. Il n’est pas possible de dire “je te fouille toutes tes poches”.
-LUTTE | En dehors d’un combat (ou alors de façon délicate) posez votre main sur l’épaule d’une personne et annoncez-lui discrètement “DUEL”. Faites un Chifoumi. Celle ou celui qui gagne infligera “UN CHOC” à l’autre. Mimez ensuite la scène.
+Action |Description 
+Achever | Lorsqu’une victime est à terre, agonisante et gémissante et que vous voulez la faire taire, approchez-vous doucement, sans brutalité, et posez votre arme sur son épaule (délicatement), en faisant un geste de trancher son épaule. Puis annoncez “Achever. Tu ne peux plus parler ou bouger”
+Stabiliser | Si vous repérez une personne agonisante, vous pouvez vous en approcher, et lui prendre la main ou rester près d’elle pour la “stabiliser”. En faisant cela, vous prolongez son agonie de 5 minutes à 15 minutes. Vous pouvez aussi la déplacer (en mimant que vous la portez par les épaules à bras le corps.
+Remboiter | Vous pouvez aider une personne à “soigner” un membre brisé en mimant la scène. Faites un Chifoumi. Si vous perdez, vous infligez SOUFFRANCE au lieu de le soigner.
+Fouiller | Approchez-vous auprès de la victime, et mettez une main au-dessus (sans contact) de l’objet ou la partie du corps que vous voulez fouiller. La personne doit vous dire si vous y trouvez un objet. Il n’est pas possible de dire “je te fouille toutes tes poches”.
+Lutte | En dehors d’un combat (ou alors de façon délicate) posez votre main sur l’épaule d’une personne et annoncez-lui discrètement “DUEL”. Faites un Chifoumi. Celle ou celui qui gagne infligera “UN CHOC” à l’autre. Mimez ensuite la scène.
 -table-
 
 ##Caractéristiques
@@ -131,26 +131,26 @@ __Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur
 Les “EFFETS” sont des mots-clés qui représentent des indications de jeu. Certaines compétences (skills) auront peut-être des EFFETS un peu exotiques, qui pourront au besoin être expliqués par un Orga ou par les joueurs·es, mais voici déjà la liste des effets les plus courants, à apprendre par cœur (y aura peut-être un contrôle !). 
  -table-
 Appel | Description
-SOUFFRANCE	|Vous vous tordez de douleur 5 à 10 secondes. Vous ne pouvez rien faire d'autre mais êtes insensible aux dégâts.					
-SOUFFR. MENTALE|	Comme Souffrance, mais n'étant pas physique, vous ne pouvez pas y résister à moins d'une compétence spéciale.				
-EXECUTION|	Vous faites tomber à 0 PV, et vous ne pouvez plus gémir ou gesticuler lors de votre agonie. 					
-CHOC|	Vous subissez un choc et reculez de 5 pas, voire tombez au sol. Vous pouvez aussi jouer un étourdissement.					
-PEUR|	Vous vous enfuyez en hurlant loin de la cible pendant 5 à 10 secondes.					
-REPOUSSER |	Vous devez vous tenir hors de portée d'arme de la cible avec méfiance.					
-ENTORSE |	Vous ne pouvez plus utiliser le membre visé tant qu'il n'aura pas été remis par un ami.					
-DESARMER|	Vous devez jeter votre arme comme si quelqu'un venait de frapper dans votre main					
-INJONCTION |	vous devez obéir à l'ordre simple qui vous sera donné ensuite.					
-RESISTE|	Permet d'annuler un effet. Attention, on peut résister à un effet sans forcément l'annoncer. 					
-APAISEMENT|	Arrête les effets d'une Souffrance.					
-ESQUIVE|	La personne ne sent pas les coups. Merci de l'ignorer et ne pas vous acharner sur elle					
-DETECTION|	Vous devez répondre "ICI" si vous entendez cet Appel.					
-couronne bleue|	A proximité de cette personne (longueur d'arme) vous résistez à PEUR et EFFROI.					
-couronne jaune|	Cette personne impose un certain respect ou dégage une aura de charisme et confiance.				
-couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.					
-... MAGIQUE|	Rien ne vous permet de résister à cette attaque ou Skill.					
-... CONTAGIEUX|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
-... PUISSANT|	Considérez que l'effet est doublé ou triplé.					
-... DE MENTAL 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
+Souffrance	|Vous vous tordez de douleur 5 à 10 secondes. Vous ne pouvez rien faire d'autre mais êtes insensible aux dégâts.					
+Souffrance Mentale|	Comme Souffrance, mais n'étant pas physique, vous ne pouvez pas y résister à moins d'une compétence spéciale.				
+Exécution |	Vous faites tomber à 0 PV, et vous ne pouvez plus gémir ou gesticuler lors de votre agonie. 					
+Choc |	Vous subissez un choc et reculez de 5 pas, voire tombez au sol. Vous pouvez aussi jouer un étourdissement.					
+Peur |	Vous vous enfuyez en hurlant loin de la cible pendant 5 à 10 secondes.					
+Repousser |	Vous devez vous tenir hors de portée d'arme de la cible avec méfiance.					
+Entorse |	Vous ne pouvez plus utiliser le membre visé tant qu'il n'aura pas été remis par un ami.					
+Désarmer|	Vous devez jeter votre arme comme si quelqu'un venait de frapper dans votre main					
+Injonction |	vous devez obéir à l'ordre simple qui vous sera donné ensuite.					
+Résiste|	Permet d'annuler un effet. Attention, on peut résister à un effet sans forcément l'annoncer. 					
+Apaisement|	Arrête les effets d'une Souffrance.					
+Esquive|	La personne ne sent pas les coups. Merci de l'ignorer et ne pas vous acharner sur elle					
+Détection|	Vous devez répondre "ICI" si vous entendez cet Appel.					
+Couronne Bleue|	A proximité de cette personne (longueur d'arme) vous résistez à PEUR et EFFROI.					
+Couronne Jaune|	Cette personne impose un certain respect ou dégage une aura de charisme et confiance.				
+Couronne Rouge|	Cette personne dégage un effet d'EFFROI en permanence.					
+... Magique|	Rien ne vous permet de résister à cette attaque ou Skill.					
+... Contagieux|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
+... Puissant|	Considérez que l'effet est doublé ou triplé.					
+... De Mental 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
 
 ##Inventaire
