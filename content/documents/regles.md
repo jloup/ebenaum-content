@@ -47,9 +47,10 @@ Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous
 
 ## (Sur)Vivre et mourir en Erenthrym 
 
-\img(/img/Hennessy.jpg, Henessy, center, w400)
+Les mondes d’Erenthrym et d’Ebenaum sont peuplés de différentes créatures, que l’on regroupe pour la plupart dans des “espèces”. Vous saurez de manière générale peu de choses sur les autres espèces que la vôtre, mais il va de soi que chacune d’entre elles possède une morphologie spécifique, et donc que les règles qui lui permettent de vivre sont différentes.
 
-Les mondes d’Erenthrym et d’Ebenaum sont peuplés de différentes créatures, que l’on regroupe pour la plupart dans des “espèces”. Vous saurez de manière générale peu de choses sur les autres espèces que la vôtre, mais il va de soi que chacune d’entre elles possède une morphologie spécifique, et donc que les règles qui lui permettent de vivre sont différentes.  
+\img(/img/Hennessy.jpg, Henessy, center, w400)
+  
 Cependant, et notamment pour des raisons de jouabilité, la plupart des espèces fonctionnent avec un système de points de vie (PV), qui, une fois perdus, demanderont des soins pour être récupérés.  
 Mais comme vous l’aurez compris, certaines personnes auront le don de pouvoir se régénérer, d’autres n’auront pas de points de vie mais des points d’esprits, etc... Attendez-vous donc peut-être à des surprises.  
 -table-Règles de vie:  
