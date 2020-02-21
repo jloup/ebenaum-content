@@ -275,7 +275,7 @@ __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas 
 
 
 #Ce que vous savez du monde...
-\img(/img/blaireau.jpg,float-right)
+
 
 Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Le “livre du monde” correspondant aux connaissances précises de votre personnage selon son histoire fera partie de votre fiche de personnage qui arrivera donc plus tard. 
 
@@ -289,7 +289,6 @@ Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mot
 
 *Les voyageurs* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
 
-
 #Conclusion
 
 Pour finir, nous aimerions vous remercier de votre intérêt, de votre patience et de votre enthousiasme. Pendant ces longues années sans organiser de grand jeu, nous avons observé et travaillé avec de nombreuses associations diverses pour essayer d'en apprendre le meilleur. Nous avons hâte de vous (re)trouver pour partager un nouveau week-end d'aventures improbables !
@@ -302,6 +301,7 @@ Nous finissons avec une galerie de portrait des différents orgas, pour que vous
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 
+\img(/img/blaireau.jpg,
 
 
  
