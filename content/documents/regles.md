@@ -37,13 +37,13 @@ Si jamais vous soupçonnez un joueur·se de “tricher”, partez du principe qu
 Si jamais vous voyez un joueur·se qui ne respecte pas les règles de base, refusez simplement de jouer avec en l’ignorant, puis venez en parler à un orga. Utilisez toujours en priorité le bon sens, en partant de façon hiérarchique par les notions de *sécurité, légalité, éthique, bon sens, règles du jeu, fairplay et fun.* 
 Enfin, gardez à l’esprit que comme chacun·e joue un jeu, il peut arriver que certains personnages vous semblent agressifs, désagréables, ou antipathiques. Attention, n’oubliez pas que tous jouent un rôle et sont peut-être adorables par ailleurs ! Alan Rickman, nous pensons à toi.
 #  Règles du Jeu
-Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : le combat, l’utilisation de compétences, et les actions de jeu. 
+Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : *le combat, l’utilisation de compétences, et les actions de jeu.* 
 
 ## (Sur)Vivre et mourir en Erenthrym 
 Les mondes d’Erenthrym et d’Ebenaum sont peuplés de différentes créatures, que l’on regroupe pour la plupart dans des “espèces”. Vous saurez de manière générale peu de choses sur les autres espèces que la vôtre, mais il va de soi que chacune d’entre elles possède une morphologie spécifique, et donc que les règles qui lui permettent de vivre sont différentes.  
 Cependant, et notamment pour des raisons de jouabilité, la plupart des espèces fonctionnent avec un système de points de vie (PV), qui, une fois perdus, demanderont des soins pour être récupérés.  
 Mais comme vous l’aurez compris, certaines personnes auront le don de pouvoir se régénérer, d’autres n’auront pas de points de vie mais des points d’esprits, etc... Attendez-vous donc peut-être à des surprises.  
-*RÈGLES DE VIE* :  
+*Règles de vie* :  
 - Lorsque vous ne perdez que 1 PV, c’est une éraflure, et vous le récupérez au bout d’une heure si vous ne subissez pas d’autres dégâts. 
 - Si vous perdez plus d’1PV dans l’heure, vous aurez besoin de soins. 
 - Lorsqu’il ne vous reste que 1PV, vous êtes en grande souffrance, et vous peinez à vous déplacer (vous boitez), ou effectuer toute action.  
@@ -143,8 +143,8 @@ __Rassurez-vous, il paraît qu’il n’y a que 7% de notre communication qui es
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
 ##Types d'acteurs
 Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
-- Les bénévoles : Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
-- Les secouristes : joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
+- *Les bénévoles*: Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
+- *Les secouristes* : joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
 - *Les PNJ* : bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
 - *Les PJA* : ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
 - *Les PJ* : ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
