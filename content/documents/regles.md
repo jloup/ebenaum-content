@@ -2,11 +2,11 @@
 
 
 
-
+\img(/img/Logo.jpg, logo, )
 
 # Présentation du GN 
  ## Introduction
-Olà, companerõs !  
+Greetings, companerõs !  
 Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
 Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi à ton trépas), en commençant par une présentation générale des règles d’un jeu de rôle grandeur nature, que nous te conseillons de lire, même si tu es un·e vétéran du genre. On te voit, là, en train de chercher à scroller directement à la section “tuer des gens”.  
  	Nous avons voulu créer des mécaniques à la fois simples et innovantes tout en étant empreintes d’une nostalgie de l’époque où les pyramides et les polyèdres engravés de runes numériques (des dés, quoi) régnaient sur le monde du jeu de rôles sur table.  
@@ -174,18 +174,17 @@ Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou
 
 
 ##Un mot sur la magie
-\img(/img/winter.png, Winter, right)
+
 Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
+\img(/img/winter.png, Winter, )
 
-
-~
 
 
 
 #Règles Logistiques
 
-##Temps de jeu et Safe Word
-Le jeu ne s’arrête pas pendant les repas ni pendant la nuit. Cependant, de 1h à 8h,  Les joueurs·ses voulant continuer à jouer peuvent le faire à l’écart des tentes personnelles pour respecter le repos des personnes en ayant besoin. 
+##Arrêt de jeu et Safe Word
+
 Le jeu peut être arrêté ponctuellement pour trois raisons:
 
 Il peut arriver que pour des raisons de scénarios, les Orgas doivent interrompre le jeu. Ils crieront alors *TIME FREEZE*. Vous devez alors vous figer, comme une statue, et fermer les yeux jusqu’à entendre *TIME IN*. Dans ces moments, il est possible que l’on vous décrive une scène ou une action. Ou bien qu’un costume aux relents de souffre couvert de ce qui pourraient être des écailles vous frôle sans un bruit.  Qui sait? 
@@ -209,11 +208,11 @@ La beauté du geste vient ensuite. Nous vous encourageons à représenter le poi
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
 
 ##Langage
-\img(/img/Speak.png, Langage, left)
-Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. 
+
+Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. \img(/img/Speak.png, Langage, left)
 Pour des raisons très pratiques, nous avons décidé de représenter la barrière de la langue en demandant aux habitants d’Erenthyrm de devoir parler en anglais, surtout en public. On pourra tolérer que des joueurs d’Erenthyrm se parlent à voix basse en français entre eux, pour représenter leur connivence. Mais la difficulté de diffusion du savoir dans ce monde explique que même avec ceux avec qui on cohabite la communication est difficile. Dans le monde d’Ebenaum, la civilisation est non seulement bien plus sophistiquée, mais également plus diffusée et normalisée, avec l’instauration d’une langue commune en plus des idiomes locaux. 
 Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
-__Rassurez-vous, il paraît qu’il n’y a que 7% de notre communication qui est verbale !__ 
+__Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
 ##Types d'acteurs
 Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
@@ -249,11 +248,13 @@ Le respect de l'environnement de jeu est indispensable, et cela passe par le res
 Certaines zones du terrain sont strictement interdites, pour des raisons de sécurité ou de propriété. Ces endroits seront *rubalisés* et nous vous les montrerons lors du briefing général. C’est pour les mêmes raisons que ni trous __(vous pourrez évidemment planter vos sardines mais pas enterrer vos cadavres)__ ni feux ne seront autorisés sur le terrain.  Au passage on vous rappelle que les lieux sont hantés par les anciens habitants·es qui auront à cœur de venir vous mordre les orteils dans la nuit si vous ne respectez pas leur ancienne demeure… Enfin, regardez bien où vous mettez vos pieds... non seulement pour ne pas louper une trouvaille, mais également car il peut il y a avoir des pièges, non seulement en-jeu, mais également sous forme de déformations du terrain, voire de barbelés (qui seront rubalisés et indiqués). Pour cette même raison nous vous demandons de ne pas essayer de passer entre des bouchures ou des endroits pour lesquels vous ne pouvez pas vous faufiler sans risques de dégâts. 
 Le PC sécurité est ouvert à tout le monde. 
 Le PC orga n’est PAS ouvert à tout le monde. Il y aura un accueil dans lequel vous pourrez poser toutes vos questions et gérer les objets trouvés, mais merci de ne pas aller dans le PC orga à moins d’y être invités·es. (Sauf si vous êtes un PNJ) car vous risquez de vous gâcher des surprises ou de perturber/ralentir le déroulement du jeu !
-Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours, cela étant, nous ne pouvons pas totalement prévenir l’apparition de touristes sauvages. Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. 
+Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours, cela étant, nous ne pouvons pas totalement prévenir l’apparition de touristes sauvages. Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
 ##Hygiène et sommeil
-le terrain comporte des toilettes accessibles à tous et toutes, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. 
-Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
+le terrain comporte des toilettes sèches, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. \img(/img/hildegunds.jpg, Duel, right) 
+Comme pour toute activité en extérieur en été, pensez à vous prémunir contre les bestioles rampantes et les insectes, notamment à vérifier chaque soir si vous n'avez pas récolté quelques tiques ! 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
+
+Le jeu ne s’arrête pas pendant les repas ni pendant la nuit. Cependant, de 1h à 8h,  Les joueurs·ses voulant continuer à jouer peuvent le faire à l’écart des tentes personnelles pour respecter le repos des personnes en ayant besoin. 
 
 ##Paquetage 
 
@@ -307,7 +308,7 @@ Nous finissons avec une galerie de portrait des différents orgas, pour que vous
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 
-\img(/img/blaireau.jpg, Blaireau)
+\img(/img/ebenaum.png, Blaireau)
 
 
  
