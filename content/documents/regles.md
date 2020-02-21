@@ -41,7 +41,6 @@ Enfin, gardez à l’esprit que comme chacun·e joue un jeu, il peut arriver que
 
 De manière générale, attendez-vous dans nos Gns à de l'humour décalé, des scènes, et une tentative de laisser autant de liberté que possible aux joueurs tout en leur proposant une trame principale bien chargée. Les joueurs peuvent largement influer le cours de l'histoire et du jeu, mais nous avons prévu une batterie d'événements qui ponctueront tout le week-end et qui feront monter la pression progressivement !
 
-\img(/img/duel.jpg,)
 
 #  Règles du Jeu
 Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : *le combat, l’utilisation de compétences, et les actions de jeu.* 
@@ -250,8 +249,11 @@ Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours
  le terrain comporte des toilettes accessibles à tous et toutes, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. 
 Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
+\img(/img/duel.jpg,)
 
 ##Paquetage 
+
+
 Pour que votre GN se passe dans les meilleures conditions voici une petite liste non exhaustive de choses qui pourraient vous être utiles et auxquelles vous pourriez ne pas forcément penser...
 
 Il y aura si tout va bien quelques douches solaires sur le site mais n’hésitez pas à emmener la vôtre. Avec produits biodégradables (que l’on trouve facilement en supermarché).
