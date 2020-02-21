@@ -200,7 +200,7 @@ Sont totalement proscrits, sous peine de possible exclusion :
 - *les coups d’estoc* (coup fait pour “planter” ou “percer”), car les armes de Gn possèdent une “âme” solide qui pourrait percer la mousse et cause de vraies blessures.
 - *les coups à la tête*, à la poitrine et à l’entrejambe, qui sont des zones sensibles. 
 - *Les coups violents*. Fouetter l’air de son arme, ne pas retenir sa force ou user de techniques causant de vraies blessures. Exemple : un bouclier sous la gorge. 
-\img(/img/dual.jpg,float-right)
+\img(/img/mercy.jpg,float-right)
 L’utilisation des armes de façon inappropriée et dangereuse. Lancer une arme dont la poignée est rigide, par exemple. Ou se battre avec un arc. Sauvage. 
 Tout combat doit être stoppé et déplacé si le moindre danger apparaît (ronces ou zone dangereuse, énervement des combattants, arme brisée…)
 La beauté du geste vient ensuite. Nous vous encourageons à représenter le poids d’une arme réelle en acier, ainsi que l’habileté de votre personnage à la manier. Ainsi, les coups “mitraillettes” (plusieurs coups rapides sans armer les frappes) ne sont pas réalistes et ne compteront que pour une seule “touche”. 
@@ -230,8 +230,8 @@ Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femme
 ##Les Repas 
 Nous prenons en charge les repas du samedi matin au dimanche midi. Nous vous encourageons à apporter un petit plat typique - ou qui pique pas - de votre région pour le vendredi soir (qui selon l’heure de début de GN pourrait potentiellement être en-jeu).
 Il y aura des possibilités de restauration/collation en-dehors des repas, mais nous vous invitons à prévoir quelques grignotages, (sans emballages, naturellement, autant que faire se peut, et un maximum dans le “style” de l’univers pour tout ce qui sera visible dans le terrain en-jeu. Evitez les Snickers ou les paquets de chips). La chair crue reste peu conseillée.
-Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge. 
-##Alcool et autres substances
+Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge. \img(/img/Cheers.jpg, float-right)
+##Alcool et autres substances 
 Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
 Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
