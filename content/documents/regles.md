@@ -250,7 +250,6 @@ Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours
 le terrain comporte des toilettes accessibles à tous et toutes, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. 
 Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
-\
 
 ##Paquetage 
 
