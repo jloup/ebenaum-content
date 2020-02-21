@@ -301,7 +301,7 @@ Nous finissons avec une galerie de portrait des différents orgas, pour que vous
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 
-\img(/img/blaireau.jpg,
+\img(/img/blaireau.jpg)
 
 
  
