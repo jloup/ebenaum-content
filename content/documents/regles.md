@@ -143,11 +143,11 @@ couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.
 ... PUISSANT|	Considérez que l'effet est doublé ou triplé.					
 ... DE MENTAL 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
-
+\img(/img/GustaveBrion.jpg, float-right)
 ##Inventaire
  Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
 Il pourra aussi éventuellement être possible de fabriquer certains objets. 
-\img(/img/GustaveBrion.jpg, float-right)
+
 -table-
 Element| Description et effets associés
 Cotte de Maille / Gambison|	La cotte de maille permet de réduire à 1 les coups normaux subis au torse. 		
@@ -217,12 +217,16 @@ __Rassurez-vous, il paraît qu’il n’y a que 7% de notre communication qui es
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
 ##Types d'acteurs
 Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
-- *Les bénévoles*: Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
-- *Les secouristes* : joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
-- *Les PNJ* : bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
-- *Les PJA* : ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
-- *Les PJ* : ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
-- *Les Orgas* : avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
+-table-
+
+Bénévoles:| Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
+Secouristes :| joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
+Les PNJ:| bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
+Les PJA :| ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
+Les PJ :| ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
+Les Orgas:| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
+-table-
+*En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
 ##Codes couleurs 
 Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femmes enceintes et personnes fragiles sont elles munies d’un bracelet rose fluo. Les personnes qui ont des capacités de secourisme auront un bracelet bleu fluo. Les orgas sont reconnaissables par un bracelet rouge fluo au bras. Les objets portant une vignette ou un ruban vert sont des objets en jeu qui peuvent être volés.
@@ -237,7 +241,7 @@ Des Alcools doux tout mignon pourront être consommés avec modération et pour 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
 ##Déchets et environnement 
 
-Zero déchets. \img(/img/Foster.jpg, float-right) Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
+Zero déchets. \img(/img/Foster.jpg, float-left) Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
 Dans l’hypothèse où nous parviendrions, selon nos plans, à installer des douches sur place, nous vous demandons de n’utiliser que des produits hygiéniques biodégradables. 
 Le respect de l'environnement de jeu est indispensable, et cela passe par le respect de la flore ET de la faune potentiellement rencontrée sur le site. Cela implique également le voisinage... Cela relève du savoir-vivre de base, mais mérite d'être rappelé. 
 
