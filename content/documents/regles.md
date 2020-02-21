@@ -209,7 +209,7 @@ Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne con
 __Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
 
-#Règles Logistiques
+# Sécurité
 
 ##Arrêt de jeu et Safe Word
 
@@ -221,30 +221,35 @@ Il peut aussi arriver de façon plus intime qu’un joueur·se doive passer en m
 
 Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui vous est inconfortable physiquement ou psychiquement nous vous invitons à le faire savoir sur le champ en disant *“STOP HORS JEU”*. Ceci doit véritablement arrêter le jeu et passer de la relation de personnages à de la relation entre des personnes. Lorsque le danger est écarté vous pourrez dire *“REPRISE DU JEU”*.
 
+##Alcool et autres substances 
+Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
+Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
+Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
+
 ##Types d'acteurs
 Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
 -table-
 
-Bénévoles:| Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
-Secouristes :| joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
-Les PNJ:| bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
-Les PJA :| ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
-Les PJ :| ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
-Les Orgas:| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
+Bénévoles| Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
+Secouristes | joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
+Les PNJ| bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
+Les PJA | ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
+Les PJ | ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
+Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
 -table-
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
+
+# Règles Logistiques
 
 ##Codes couleurs 
 Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femmes enceintes et personnes fragiles sont elles munies d’un bracelet rose fluo. Les personnes qui ont des capacités de secourisme auront un bracelet bleu fluo. Les orgas sont reconnaissables par un bracelet rouge fluo au bras. Les objets portant une vignette ou un ruban vert sont des objets en jeu qui peuvent être volés.
 
 ##Les Repas 
 Nous prenons en charge les repas du samedi matin au dimanche midi. Nous vous encourageons à apporter un petit plat typique - ou qui pique pas - de votre région pour le vendredi soir (qui selon l’heure de début de GN pourrait potentiellement être en-jeu).
-Il y aura des possibilités de restauration/collation en-dehors des repas, mais nous vous invitons à prévoir quelques grignotages, (sans emballages, naturellement, autant que faire se peut, et un maximum dans le “style” de l’univers pour tout ce qui sera visible dans le terrain en-jeu. Evitez les Snickers ou les paquets de chips). La chair crue reste peu conseillée.
-Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge. \img(/img/Cheers.jpg, Cheers, right)
-##Alcool et autres substances 
-Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
-Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
-Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
+Il y aura des possibilités de restauration/collation en-dehors des repas, mais nous vous invitons à prévoir quelques grignotages, (sans emballages, naturellement, autant que faire se peut, et un maximum dans le “style” de l’univers pour tout ce qui sera visible dans le terrain en-jeu. Evitez les Snickers ou les paquets de chips). Manger un animal mort reste peu conseillé.
+Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge.
+\img(/img/Cheers.jpg, Cheers, right)
+
 ##Déchets et environnement 
 
 Zero déchets. \img(/img/Foster.jpg, Foster, left) Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
@@ -256,7 +261,8 @@ Certaines zones du terrain sont strictement interdites, pour des raisons de séc
 Le PC sécurité est ouvert à tout le monde. 
 Le PC orga n’est PAS ouvert à tout le monde. Il y aura un accueil dans lequel vous pourrez poser toutes vos questions et gérer les objets trouvés, mais merci de ne pas aller dans le PC orga à moins d’y être invités·es. (Sauf si vous êtes un PNJ) car vous risquez de vous gâcher des surprises ou de perturber/ralentir le déroulement du jeu !
 Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours, cela étant, nous ne pouvons pas totalement prévenir l’apparition de touristes sauvages. Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
-##Hygiène et sommeil
+
+## Hygiène et sommeil
 le terrain comporte des toilettes sèches, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. \img(/img/hildegunds.jpg, Duel, right) 
 Comme pour toute activité en extérieur en été, pensez à vous prémunir contre les bestioles rampantes et les insectes, notamment à vérifier chaque soir si vous n'avez pas récolté quelques tiques ! 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
@@ -264,7 +270,6 @@ Il y aura deux types de camps, selon votre matériel de couchage : soit un camp 
 Le jeu ne s’arrête pas pendant les repas ni pendant la nuit. Cependant, de 1h à 8h,  Les joueurs·ses voulant continuer à jouer peuvent le faire à l’écart des tentes personnelles pour respecter le repos des personnes en ayant besoin. 
 
 ##Paquetage 
-
 
 Pour que votre GN se passe dans les meilleures conditions voici une petite liste non exhaustive de choses qui pourraient vous être utiles et auxquelles vous pourriez ne pas forcément penser...
 
@@ -278,7 +283,9 @@ Il y aura si tout va bien quelques douches solaires sur le site mais n’hésite
 - *Une lampe torche* : ne pourra être utilisée que dans des moments hors-jeu, ou si vous choisissez dans l’inventaire l’objet “Fée en cage”
 - *Une montre* (surtout pour les PNJ ).Ne mettez pas en danger vos smartphones.
 - *Votre vaisselle* : en bois ou en métal, c'est plus résistant et plus d'époque.
-##Votre arrivée
+
+## Votre arrivée
+
 Le jeu se déroulera à XXXXXXXXXXX
 Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part. Des navettes depuis la grande gare la plus proche seront mises en place au besoin. 
 Lorsque vous arrivez, vous pouvez vous garer sur le parking temporaire qui sera indiqué. Nous vous demanderons de venir nous prévenir de votre arrivée au PC orga, puis de décharger vos affaires et monter votre camp (vous pourrez éventuellement y aller en voiture). Vous devrez ensuite garer votre voiture au parking. Puis vous irez voir votre référent·e au PC orga pour un briefing personnel si besoin, et surtout recevoir votre enveloppe de jeu. Si vous n’avez pas pu trouver d’imprimante, on pourra vous imprimer votre feuille ou un livret. Ensuite, il sera temps pour vous d’aller vous pouponner et de venir ripailler. 
@@ -287,14 +294,11 @@ Nous vous conseillons d’arriver en début d’après-midi afin de vous install
 __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas à rester pour prolonger l'aventure !__
 \img(/img/duel.jpg, Duel)
 
-
-
-#Ce que vous savez du monde...
-
+# Ce que vous savez du monde...
 
 Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Le “livre du monde” correspondant aux connaissances précises de votre personnage selon son histoire fera partie de votre fiche de personnage qui arrivera donc plus tard. 
 
-##Les "factions" de départ
+## Les "factions" de départ
 
 Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
 *Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ? Parfait pour les vétérans d'Ebenaum ou si vous venez seul ou à deux ou trois personnes. Cependant, ce groupe est soumis à des pressions importantes !
