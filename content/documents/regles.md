@@ -2,9 +2,7 @@
 
 ## Introduction
 
-\img(/img/Logo.jpg, logo, ,w350)
-Greetings, companerõs !  
-Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
+Greetings, companerõs !  Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
 Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi à ton trépas), en commençant par une présentation générale des règles d’un jeu de rôle grandeur nature, que nous te conseillons de lire, même si tu es un·e vétéran du genre. On te voit, là, en train de chercher à scroller directement à la section “tuer des gens”.  
  
 Nous avons voulu créer des mécaniques à la fois simples et innovantes tout en étant empreintes d’une nostalgie de l’époque où les pyramides et les polyèdres engravés de runes numériques (des dés, quoi) régnaient sur le monde du jeu de rôles sur table.  
@@ -189,19 +187,6 @@ Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou
 
 Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
 
-
-#Règles Logistiques
-
-##Arrêt de jeu et Safe Word
-
-Le jeu peut être arrêté ponctuellement pour trois raisons:
-
-Il peut arriver que pour des raisons de scénarios, les Orgas doivent interrompre le jeu. Ils crieront alors *TIME FREEZE*. Vous devez alors vous figer, comme une statue, et fermer les yeux jusqu’à entendre *TIME IN*. Dans ces moments, il est possible que l’on vous décrive une scène ou une action. Ou bien qu’un costume aux relents de souffre couvert de ce qui pourraient être des écailles vous frôle sans un bruit.  Qui sait? 
-
-Il peut aussi arriver de façon plus intime qu’un joueur·se doive passer en mode “HRP” (Hors-jeu). Pour cela, levez un poing fermé au-dessus de votre visage. On considère alors que la personne n’est tout simplement pas visible.  
-
-Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui vous est inconfortable physiquement ou psychiquement nous vous invitons à le faire savoir sur le champ en disant *“STOP HORS JEU”*. Ceci doit véritablement arrêter le jeu et passer de la relation de personnages à de la relation entre des personnes. Lorsque le danger est écarté vous pourrez dire *“REPRISE DU JEU”*.
-
 ## Combat 
 La sécurité doit être la priorité et tout comportement dangereux pourra potentiellement mener à une exclusion du GN. *Seules les armes en mousse et en latex qui auront passé la validation par les Orgas seront autorisées*. Elles seront marquées par un morceau de tissu rouge.  Nous préférerions éviter les armes en mousse injectées, ou de manière générale toute arme un peu dure. Le combat au corps à corps est interdit, OU doit être mimé sans risques de coups réels. \img(/img/mercy.jpg, Mercy, right)
 Sont totalement proscrits, sous peine de possible exclusion :
@@ -223,6 +208,19 @@ Pour des raisons très pratiques, nous avons décidé de représenter la barriè
 Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
 __Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
+
+#Règles Logistiques
+
+##Arrêt de jeu et Safe Word
+
+Le jeu peut être arrêté ponctuellement pour trois raisons:
+
+Il peut arriver que pour des raisons de scénarios, les Orgas doivent interrompre le jeu. Ils crieront alors *TIME FREEZE*. Vous devez alors vous figer, comme une statue, et fermer les yeux jusqu’à entendre *TIME IN*. Dans ces moments, il est possible que l’on vous décrive une scène ou une action. Ou bien qu’un costume aux relents de souffre couvert de ce qui pourraient être des écailles vous frôle sans un bruit.  Qui sait? 
+
+Il peut aussi arriver de façon plus intime qu’un joueur·se doive passer en mode “HRP” (Hors-jeu). Pour cela, levez un poing fermé au-dessus de votre visage. On considère alors que la personne n’est tout simplement pas visible.  
+
+Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui vous est inconfortable physiquement ou psychiquement nous vous invitons à le faire savoir sur le champ en disant *“STOP HORS JEU”*. Ceci doit véritablement arrêter le jeu et passer de la relation de personnages à de la relation entre des personnes. Lorsque le danger est écarté vous pourrez dire *“REPRISE DU JEU”*.
+
 ##Types d'acteurs
 Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
 -table-
@@ -316,8 +314,6 @@ Avant de vous ruer sur nos mails, messenger et autres pour nous demander où est
 Nous finissons avec une galerie de portrait des différents orgas, pour que vous sachiez qui vous allez devoir agresser pour trouver vos réponses ! 
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
-
-\img(/img/ebenaum.png, Blaireau, ,w300)
 
 
  
