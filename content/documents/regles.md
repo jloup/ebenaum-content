@@ -2,10 +2,11 @@
 
 
 
-\img(/img/Logo.jpg, logo, )
+
 
 # Présentation du GN 
  ## Introduction
+\img(/img/Logo.jpg, logo, ,w350)
 Greetings, companerõs !  
 Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
 Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi à ton trépas), en commençant par une présentation générale des règles d’un jeu de rôle grandeur nature, que nous te conseillons de lire, même si tu es un·e vétéran du genre. On te voit, là, en train de chercher à scroller directement à la section “tuer des gens”.  
@@ -63,7 +64,7 @@ __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à te
 
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
 
-\img(/img/Hennessy.jpg, Henessy, center)
+\img(/img/Hennessy.jpg, Henessy, center, w400)
 
 ##Actions de jeu
 Dans un Jeu de rôle, la plupart des choses sont à accomplir vous-même. Pour esquiver des coups de hache, ce sera à vous de vous dérouiller les genoux. Les compétences sont là pour représenter des capacités exceptionnelles -comme par exemple désarmer à coup sûr un ou une adversaire- mais vous avez le droit de tenter de désarmer quelqu’un par vos talents propres, tant que vous respectez les règles de jeu et de sécurité.  
@@ -107,8 +108,9 @@ Le niveau d’une caractéristique correspond à celui la branche la plus élev�
 *Le détail des caractéristiques vous sera donné dans le fichier de création de personnage.*
 
 ##Compétences
-Vous seul et les Orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages.
+Vous seul et les Orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages. \img(/img/meal.jpg, Esbrouffe, right,w400 )
  Elles nécessitent quasiment toujours des conditions pour être effectuées, à vous de les respecter. Il existe de nombreuses compétences “uniques” dans notre système de jeu, il est donc normal que vous soyez surpris par ce que peut faire un personnage. Cela étant, les compétences sont là pour faciliter la représentation de certains “pouvoirs”, mais elles ne sont pas là pour remplacer le “roleplay” (RP). A vous de jouer au maximum l’annonce des compétences. Par exemple, si votre pouvoir consiste à torturer une personne pour lui faire avouer la vérité, ne vous contentez pas de lui lancer un “hey, salut. Au fait, TORTURE.”, mais essayez de jouer la scène, pour ensuite, si possible discrètement, annoncer l’effet à la victime, et, si besoin, lui expliquer ce qu’il se passe.  Dans le détail. En souriant.
+
 
 Certaines compétences peuvent être contrées, il faut aussi l’accepter ! En cas de doute sur une compétence, n’hésitez pas à venir en parler à un orga.  
 La plupart des compétences vont générer un “EFFET” dont les plus courants seront explicités plus loin (voir chapitre compétences). Si vous avez un doute sur un effet, demandez discrètement ou bien à travers votre personnage : “mais que m’arrive-t-il ?” pour que l’autre joueur·se comprenne qu’il ou elle doit décrire l’effet. Si jamais vous êtes pris dans le feu de l’action et que vous ne comprenez pas un effet, le mieux est de simuler un choc violent.  
@@ -308,7 +310,7 @@ Nous finissons avec une galerie de portrait des différents orgas, pour que vous
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 
-\img(/img/ebenaum.png, Blaireau)
+\img(/img/ebenaum.png, Blaireau, ,w300)
 
 
  
