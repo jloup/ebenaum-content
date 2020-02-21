@@ -41,6 +41,8 @@ Enfin, gardez à l’esprit que comme chacun·e joue un jeu, il peut arriver que
 
 De manière générale, attendez-vous dans nos Gns à de l'humour décalé, des scènes, et une tentative de laisser autant de liberté que possible aux joueurs tout en leur proposant une trame principale bien chargée. Les joueurs peuvent largement influer le cours de l'histoire et du jeu, mais nous avons prévu une batterie d'événements qui ponctueront tout le week-end et qui feront monter la pression progressivement !
 
+\img(/img/duel.jpg,)
+
 #  Règles du Jeu
 Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : *le combat, l’utilisation de compétences, et les actions de jeu.* 
 
@@ -61,6 +63,8 @@ Lit de camp | Une personne “agonisante” ou blessée transportée dans le “
 __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à tenir compte malgré tout qu’un coup dans un membre vous fait souffrir ce membre en particulier. Plusieurs coups dans la même jambe devraient vous empêcher de vous en servir, par exemple.__ 
 
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
+
+\img(/img/Hennessy.jpg,)
 
 ##Actions de jeu
 Dans un Jeu de rôle, la plupart des choses sont à accomplir vous-même. Pour esquiver des coups de hache, ce sera à vous de vous dérouiller les genoux. Les compétences sont là pour représenter des capacités exceptionnelles -comme par exemple désarmer à coup sûr un ou une adversaire- mais vous avez le droit de tenter de désarmer quelqu’un par vos talents propres, tant que vous respectez les règles de jeu et de sécurité.  
@@ -197,6 +201,7 @@ Sont totalement proscrits, sous peine de possible exclusion :
 - *les coups d’estoc* (coup fait pour “planter” ou “percer”), car les armes de Gn possèdent une “âme” solide qui pourrait percer la mousse et cause de vraies blessures.
 - *les coups à la tête*, à la poitrine et à l’entrejambe, qui sont des zones sensibles. 
 - *Les coups violents*. Fouetter l’air de son arme, ne pas retenir sa force ou user de techniques causant de vraies blessures. Exemple : un bouclier sous la gorge. 
+\img(/img/dual.jpg,float-right)
 L’utilisation des armes de façon inappropriée et dangereuse. Lancer une arme dont la poignée est rigide, par exemple. Ou se battre avec un arc. Sauvage. 
 Tout combat doit être stoppé et déplacé si le moindre danger apparaît (ronces ou zone dangereuse, énervement des combattants, arme brisée…)
 La beauté du geste vient ensuite. Nous vous encourageons à représenter le poids d’une arme réelle en acier, ainsi que l’habileté de votre personnage à la manier. Ainsi, les coups “mitraillettes” (plusieurs coups rapides sans armer les frappes) ne sont pas réalistes et ne compteront que pour une seule “touche”. 
@@ -205,6 +210,7 @@ La beauté du geste vient ensuite. Nous vous encourageons à représenter le poi
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
 
 ##Langage
+\img(/img/Speak.png, float-left)
 Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. 
 Pour des raisons très pratiques, nous avons décidé de représenter la barrière de la langue en demandant aux habitants d’Erenthyrm de devoir parler en anglais, surtout en public. On pourra tolérer que des joueurs d’Erenthyrm se parlent à voix basse en français entre eux, pour représenter leur connivence. Mais la difficulté de diffusion du savoir dans ce monde explique que même avec ceux avec qui on cohabite la communication est difficile. Dans le monde d’Ebenaum, la civilisation est non seulement bien plus sophistiquée, mais également plus diffusée et normalisée, avec l’instauration d’une langue commune en plus des idiomes locaux. 
 Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
@@ -230,7 +236,8 @@ Nous nous efforçons de nous fournir localement pour la confection de nos repas,
 Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
 Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
-##Déchets et environnement
+##Déchets et environnement 
+\img(/img/Foster.jpg, float-right)
 Zero déchets. Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
 Dans l’hypothèse où nous parviendrions, selon nos plans, à installer des douches sur place, nous vous demandons de n’utiliser que des produits hygiéniques biodégradables. 
 Le respect de l'environnement de jeu est indispensable, et cela passe par le respect de la flore ET de la faune potentiellement rencontrée sur le site. Cela implique également le voisinage... Cela relève du savoir-vivre de base, mais mérite d'être rappelé. 
@@ -269,6 +276,7 @@ __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas 
 
 #Ce que vous savez du monde...
 
+
 Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Le “livre du monde” correspondant aux connaissances précises de votre personnage selon son histoire fera partie de votre fiche de personnage qui arrivera donc plus tard. 
 
 ##Les "factions" de départ
@@ -280,7 +288,6 @@ Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mot
 *La Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
 
 *Les voyageurs* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
-
 
 #Conclusion
 
@@ -294,6 +301,7 @@ Nous finissons avec une galerie de portrait des différents orgas, pour que vous
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 
+\img(/img/blaireau.jpg,
 
 
  
