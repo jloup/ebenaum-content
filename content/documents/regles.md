@@ -41,6 +41,8 @@ Enfin, gardez à l’esprit que comme chacun·e joue un jeu, il peut arriver que
 
 De manière générale, attendez-vous dans nos Gns à de l'humour décalé, des scènes, et une tentative de laisser autant de liberté que possible aux joueurs tout en leur proposant une trame principale bien chargée. Les joueurs peuvent largement influer le cours de l'histoire et du jeu, mais nous avons prévu une batterie d'événements qui ponctueront tout le week-end et qui feront monter la pression progressivement !
 
+\img(/img/duel.jpg,)
+
 #  Règles du Jeu
 Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : *le combat, l’utilisation de compétences, et les actions de jeu.* 
 
@@ -199,10 +201,10 @@ Sont totalement proscrits, sous peine de possible exclusion :
 - *les coups d’estoc* (coup fait pour “planter” ou “percer”), car les armes de Gn possèdent une “âme” solide qui pourrait percer la mousse et cause de vraies blessures.
 - *les coups à la tête*, à la poitrine et à l’entrejambe, qui sont des zones sensibles. 
 - *Les coups violents*. Fouetter l’air de son arme, ne pas retenir sa force ou user de techniques causant de vraies blessures. Exemple : un bouclier sous la gorge. 
+\img(/img/dual.jpg,float-right)
 L’utilisation des armes de façon inappropriée et dangereuse. Lancer une arme dont la poignée est rigide, par exemple. Ou se battre avec un arc. Sauvage. 
 Tout combat doit être stoppé et déplacé si le moindre danger apparaît (ronces ou zone dangereuse, énervement des combattants, arme brisée…)
 La beauté du geste vient ensuite. Nous vous encourageons à représenter le poids d’une arme réelle en acier, ainsi que l’habileté de votre personnage à la manier. Ainsi, les coups “mitraillettes” (plusieurs coups rapides sans armer les frappes) ne sont pas réalistes et ne compteront que pour une seule “touche”. 
-\img(/img/duel.jpg,)
 
 ##Argent et expérience
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
@@ -273,6 +275,7 @@ __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas 
 
 
 #Ce que vous savez du monde...
+\img(/img/blaireau.jpg,float-right)
 
 Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Le “livre du monde” correspondant aux connaissances précises de votre personnage selon son histoire fera partie de votre fiche de personnage qui arrivera donc plus tard. 
 
