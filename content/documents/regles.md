@@ -154,7 +154,7 @@ couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.
 -table-					
 
 ##Inventaire
-\img(/img/GustaveBrion.jpg, Gustave Brion, right, w250)
+
 Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
 Il pourra aussi éventuellement être possible de fabriquer certains objets. 
 
@@ -182,6 +182,7 @@ Chaînes et cadenas éprouvés|	Pour s'assurer que leurs prisonniers ou objets d
 Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou securiser une porte. Peut être tranchée.
 -table-		
 
+\img(/img/GustaveBrion.jpg, Gustave Brion, center, w300)
 
 ##Un mot sur la magie
 
@@ -247,10 +248,12 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femmes enceintes et personnes fragiles sont elles munies d’un bracelet rose fluo. Les personnes qui ont des capacités de secourisme auront un bracelet bleu fluo. Les orgas sont reconnaissables par un bracelet rouge fluo au bras. Les objets portant une vignette ou un ruban vert sont des objets en jeu qui peuvent être volés.
 
 ##Les Repas 
+
+\img(/img/Cheers.jpg, Cheers, right)
+
 Nous prenons en charge les repas du samedi matin au dimanche midi. Nous vous encourageons à apporter un petit plat typique - ou qui pique pas - de votre région pour le vendredi soir (qui selon l’heure de début de GN pourrait potentiellement être en-jeu).
 Il y aura des possibilités de restauration/collation en-dehors des repas, mais nous vous invitons à prévoir quelques grignotages, (sans emballages, naturellement, autant que faire se peut, et un maximum dans le “style” de l’univers pour tout ce qui sera visible dans le terrain en-jeu. Evitez les Snickers ou les paquets de chips). Manger un animal mort reste peu conseillé.
 Nous nous efforçons de nous fournir localement pour la confection de nos repas, et nous proposerons des alternatives végétariennes à chaque repas. Si vous avez des allergies connues, merci de nous les signaler en amont pour que nous puissions les prendre en charge.
-\img(/img/Cheers.jpg, Cheers, right)
 
 ##Déchets et environnement 
 
