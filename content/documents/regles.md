@@ -143,11 +143,11 @@ couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.
 ... PUISSANT|	Considérez que l'effet est doublé ou triplé.					
 ... DE MENTAL 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
-
+\img(/img/GustaveBrion.jpg, float-right)
 ##Inventaire
  Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
 Il pourra aussi éventuellement être possible de fabriquer certains objets. 
-\img(/img/GustaveBrion.jpg, float-right)
+
 -table-
 Element| Description et effets associés
 Cotte de Maille / Gambison|	La cotte de maille permet de réduire à 1 les coups normaux subis au torse. 		
@@ -195,12 +195,12 @@ Il peut aussi arriver de façon plus intime qu’un joueur·se doive passer en m
 Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui vous est inconfortable physiquement ou psychiquement nous vous invitons à le faire savoir sur le champ en disant *“STOP HORS JEU”*. Ceci doit véritablement arrêter le jeu et passer de la relation de personnages à de la relation entre des personnes. Lorsque le danger est écarté vous pourrez dire *“REPRISE DU JEU”*.
 
 ## Combat 
-La sécurité doit être la priorité et tout comportement dangereux pourra potentiellement mener à une exclusion du GN. *Seules les armes en mousse et en latex qui auront passé la validation par les Orgas seront autorisées*. Elles seront marquées par un morceau de tissu rouge.  Nous préférerions éviter les armes en mousse injectées, ou de manière générale toute arme un peu dure. Le combat au corps à corps est interdit, OU doit être mimé sans risques de coups réels. 
+La sécurité doit être la priorité et tout comportement dangereux pourra potentiellement mener à une exclusion du GN. *Seules les armes en mousse et en latex qui auront passé la validation par les Orgas seront autorisées*. Elles seront marquées par un morceau de tissu rouge.  Nous préférerions éviter les armes en mousse injectées, ou de manière générale toute arme un peu dure. Le combat au corps à corps est interdit, OU doit être mimé sans risques de coups réels. \img(/img/mercy.jpg, float-right)
 Sont totalement proscrits, sous peine de possible exclusion :
 - *les coups d’estoc* (coup fait pour “planter” ou “percer”), car les armes de Gn possèdent une “âme” solide qui pourrait percer la mousse et cause de vraies blessures.
 - *les coups à la tête*, à la poitrine et à l’entrejambe, qui sont des zones sensibles. 
 - *Les coups violents*. Fouetter l’air de son arme, ne pas retenir sa force ou user de techniques causant de vraies blessures. Exemple : un bouclier sous la gorge. 
-\img(/img/mercy.jpg, float-right)
+
 L’utilisation des armes de façon inappropriée et dangereuse. Lancer une arme dont la poignée est rigide, par exemple. Ou se battre avec un arc. Sauvage. 
 Tout combat doit être stoppé et déplacé si le moindre danger apparaît (ronces ou zone dangereuse, énervement des combattants, arme brisée…)
 La beauté du geste vient ensuite. Nous vous encourageons à représenter le poids d’une arme réelle en acier, ainsi que l’habileté de votre personnage à la manier. Ainsi, les coups “mitraillettes” (plusieurs coups rapides sans armer les frappes) ne sont pas réalistes et ne compteront que pour une seule “touche”. 
@@ -217,12 +217,16 @@ __Rassurez-vous, il paraît qu’il n’y a que 7% de notre communication qui es
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
 ##Types d'acteurs
 Autour du Gn, un certain nombre de personnes vont évoluer, mais il ne s'agira pas que de joueurs réguliers. Voici un petit tour d'horizon des rôles de chacun : 
-- *Les bénévoles*: Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
-- *Les secouristes* : joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
-- *Les PNJ* : bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
-- *Les PJA* : ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
-- *Les PJ* : ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
-- *Les Orgas* : avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
+-table-
+
+Bénévoles:| Ils se portent volontaires pour aider à des tâches purement logistiques, et ne joueront que peu ou prou, selon leur envie. Evidemment, n'importe qui le souhaitant pour aider les bénévoles dans leur missions cruciales !
+Secouristes :| joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
+Les PNJ:| bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
+Les PJA :| ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
+Les PJ :| ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
+Les Orgas:| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
+-table-
+*En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
 ##Codes couleurs 
 Les personnes mineures sont pourvues d’un petit bracelet jaune fluo. Les femmes enceintes et personnes fragiles sont elles munies d’un bracelet rose fluo. Les personnes qui ont des capacités de secourisme auront un bracelet bleu fluo. Les orgas sont reconnaissables par un bracelet rouge fluo au bras. Les objets portant une vignette ou un ruban vert sont des objets en jeu qui peuvent être volés.
@@ -236,8 +240,8 @@ Les substances illicites, sont, par définition, illicites. Thank you Captain Ob
 Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
 ##Déchets et environnement 
-\img(/img/Foster.jpg, float-right)
-Zero déchets. Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
+
+Zero déchets. \img(/img/Foster.jpg, float-left) Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
 Dans l’hypothèse où nous parviendrions, selon nos plans, à installer des douches sur place, nous vous demandons de n’utiliser que des produits hygiéniques biodégradables. 
 Le respect de l'environnement de jeu est indispensable, et cela passe par le respect de la flore ET de la faune potentiellement rencontrée sur le site. Cela implique également le voisinage... Cela relève du savoir-vivre de base, mais mérite d'être rappelé. 
 
@@ -246,10 +250,10 @@ Certaines zones du terrain sont strictement interdites, pour des raisons de séc
 Le PC sécurité est ouvert à tout le monde. 
 Le PC orga n’est PAS ouvert à tout le monde. Il y aura un accueil dans lequel vous pourrez poser toutes vos questions et gérer les objets trouvés, mais merci de ne pas aller dans le PC orga à moins d’y être invités·es. (Sauf si vous êtes un PNJ) car vous risquez de vous gâcher des surprises ou de perturber/ralentir le déroulement du jeu !
 Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours, cela étant, nous ne pouvons pas totalement prévenir l’apparition de touristes sauvages. Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. 
- le terrain comporte des toilettes accessibles à tous et toutes, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. 
+##Hygiène et sommeil
+le terrain comporte des toilettes accessibles à tous et toutes, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. 
 Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
-\img(/img/duel.jpg,)
 
 ##Paquetage 
 
@@ -273,6 +277,7 @@ Lorsque vous arrivez, vous pouvez vous garer sur le parking temporaire qui sera 
 *Il est important* que vous restiez un maximum dans vos camps en attendant le début du jeu, pour ne pas vous gâcher la surprise ! 
 Nous vous conseillons d’arriver en début d’après-midi afin de vous installer tranquillement et d’être prêts·es  pour le briefing général qui aura lieu à 20h30. Un briefing de groupe et PNJ sera prévu à 21h00 le début de jeu étant prévu pour 21h30.  Si vous arrivez en retard, équipez-vous, puis dirigez-vous vers le PC orga pour qu'un orga vous briefe. Si vous souhaitez arriver avant et/ou rester après jusqu’au lundi pour donner un petit coup de main et ou profiter de la région, vous êtes évidemment les bienvenus·es ;)  
 __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas à rester pour prolonger l'aventure !__
+\img(/img/duel.jpg,)
 
 
 
@@ -284,9 +289,8 @@ Sans écoles, dans un monde où les histoires sont rares et la survie plus impor
 ##Les "factions" de départ
 
 Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
-
 *Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ? Parfait pour les vétérans d'Ebenaum ou si vous venez seul ou à deux ou trois personnes. Cependant, ce groupe est soumis à des pressions importantes !
-
+\img(/img/Ven.jpg,float-right)
 *La Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
 
 *Les voyageurs* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
