@@ -115,14 +115,69 @@ __Réflexes du guerrier : Vous ne subissez aucun dégât sur le premier coup re�
 __Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur pendant une demie-journée après une messe de 10 minutes. +1 par joueur maximum. __ 
 
 ##Effets
-Les “EFFETS” sont des mots-clés qui représentent des indications de jeu. Certaines compétences (skills) auront peut-être des EFFETS un peu exotiques, qui pourront au besoin être expliqués par un Orga ou par les joueurs·es, mais voici déjà la liste des effets les plus courants, à apprendre par cœur (y aura peut-être un contrôle !).  
+
+Les “EFFETS” sont des mots-clés qui représentent des indications de jeu. Certaines compétences (skills) auront peut-être des EFFETS un peu exotiques, qui pourront au besoin être expliqués par un Orga ou par les joueurs·es, mais voici déjà la liste des effets les plus courants, à apprendre par cœur (y aura peut-être un contrôle !). 
+ -table-
+Appel | description
+SOUFFRANCE	|Vous vous tordez de douleur 5 à 10 secondes. Vous ne pouvez rien faire d'autre mais êtes insensible aux dégâts.					
+SOUFFR. MENTALE|	Comme Souffrance, mais n'étant pas physique, vous ne pouvez pas y résister à moins d'une compétence spéciale.				
+EXECUTION|	Vous faites tomber à 0 PV, et vous ne pouvez plus gémir ou gesticuler lors de votre agonie. 					
+CHOC|	Vous subissez un choc et reculez de 5 pas, voire tombez au sol. Vous pouvez aussi jouer un étourdissement.					
+PEUR|	Vous vous enfuyez en hurlant loin de la cible pendant 5 à 10 secondes.					
+REPOUSSER |	Vous devez vous tenir hors de portée d'arme de la cible avec méfiance.					
+ENTORSE |	Vous ne pouvez plus utiliser le membre visé tant qu'il n'aura pas été remis par un ami.					
+DESARMER|	Vous devez jeter votre arme comme si quelqu'un venait de frapper dans votre main					
+INJONCTION |	vous devez obéir à l'ordre simple qui vous sera donné ensuite.					
+RESISTE|	Permet d'annuler un effet. Attention, on peut résister à un effet sans forcément l'annoncer. 					
+APAISEMENT|	Arrête les effets d'une Souffrance.					
+ESQUIVE|	La personne ne sent pas les coups. Merci de l'ignorer et ne pas vous acharner sur elle					
+DETECTION|	Vous devez répondre "ICI" si vous entendez cet Appel.					
+couronne bleue|	A proximité de cette personne (longueur d'arme) vous résistez à PEUR et EFFROI.					
+couronne jaune|	Cette personne impose un certain respect ou dégage une aura de charisme et confiance.				
+couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.					
+... MAGIQUE|	Rien ne vous permet de résister à cette attaque ou Skill.					
+... CONTAGIEUX|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
+... PUISSANT|	Considérez que l'effet est doublé ou triplé.					
+... DE MENTAL 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
+-table-					
 
 ##Inventaire
- Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont dans l’annexe XX.
+ Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
 Il pourra aussi éventuellement être possible de fabriquer certains objets. 
+\img(/img/GustaveBrion.jpg, float-right)
+-table-
+Element| Description et effets associés
+Cotte de Maille / Gambison|	La cotte de maille permet de réduire à 1 les coups normaux subis au torse. 		
+Pièces d'Armure cuir/métal|	Les éléments d'armure qui couvrent les membres permettent de résister à l'effet SOUFFRANCE. 		
+Bouclier, Ecu ou Pavois|	Nécessaire pour pouvoir commencer le jeu avec un bouclier. Pas nécessaire pour manier un bouclier. 		
+Carte ou document	|Vous commencez le jeu avec une carte ou un document intéressant selon votre background		
+Objet de valeur|	Gagnez un objet de valeur, avec pouvoir ou non, choisi par les Orgas selon votre background		
+Sac de gemmes|	vous commencez le jeu avec 4 gemmes supplémentaires		
+Trucs et bidules|	vous obtenez 3 objets inutiles, mais ressemblant à des "objets de valeur".		
+Ven femelle en cage|	Une fée en cage (lampe torche) est toujours utile la nuit. Certains savent charmer les fées		
+Crépiteur allume-feu de Karak|	Un artifice qui une fois allumé crépite et repousse naturellement les personnes (Attention, véritable artifice)		
+Eclat de lame étoilée|	une lame courte faite d'un étrange métal rare et pailleté, qui passe pour pouvoir repousser les ombres		
+Baume de Laumpsur|	Un baume qui une fois appliqué pendant un massage d'une minute permet de redonner 1PV. 3 doses.		
+Familier|	Vous permet d'avoir avec vous un familier (peluche). Parfois utile, parfois pas utile.		
+Dague effilée|	Arme de jet ou de poing perce armures et infligeant "SOUFFRANCE". Execute si utilisée dans le dos.		
+Précis d'apothicaire de Biboup|	Vous permet de reconnaître les plantes et ingrédients utiles pour les herboristes. 		
+Pilon, Mortier et consorts|	Les Outils d'herboristes sont nécessaires pour pouvoir fabriquer des onguents, poudres et philtres. 		
+Ciseaux à bois et outillage|	tout ce qu'il faut pour construire des objets ou escalader un mur		
+Pinces de vol|	En posant 2 pinces de vol sur une bourse ou poche, vous en volez le contenu (allez voir un orga qui le fera)		
+Crochets et Viredoigt|	Permet de lire le code secret (énigme inscrite au dos) des cadenas, notamment de "Chaînes".		
+Chaînes et cadenas éprouvés|	Pour s'assurer que leurs prisonniers ou objets de valeur seront bien gardés avec chaîne et cadenas		
+Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou securiser une porte. Peut être tranchée.
+-table-		
+
 
 ##Un mot sur la magie
+\img(/img/winter.png, float-right)
 Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
+
+
+~
+
+
 
 #Règles Logistiques
 
