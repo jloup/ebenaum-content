@@ -14,12 +14,12 @@ Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi 
 Nous vous invitons donc à découvrir et bâtir ce monde dans lequel les aventuriers d’Ebenaum vont apporter bien malgré eux leur lot d’humour et d’épique, d’aventure et de mystères !  
 Les informations sur l’univers vous seront données dans vos fiches de personnages fin que chacun garde une part de surprise dans la rencontre avec les autres “camps”. Les règles ci-dessous concernent avant tout les mécaniques de jeu et l’organisation en général. Bonne lecture, et méfiez-vous du Crapaud.  Mais faites confiance à la mycose. Ou ne le faites pas.  
 
-*Lexique*
-__Chifoumi__ : une partie de Pierre / Feuille / Ciseaux 
-__RP__ : le Roleplay, ou jeu de rôle. C’est le fait de jouer un personnage.  
-__Background__ : l’histoire et la personnalité de votre personnage. 
-__PNJ__ : Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et/où aident à la logistique.
-
+-table-Lexique
+Chifoumi : une partie de Pierre / Feuille / Ciseaux 
+RP: le Roleplay, ou jeu de rôle. C’est le fait de jouer un personnage.  
+Background : l’histoire et la personnalité de votre personnage. 
+PNJ: Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et/où aident à la logistique.
+-table-
  
  
 
@@ -28,14 +28,19 @@ Bon, tout d’abord, qu’est-ce qu’un GN ? Nous pensons à toi, jeune inconsc
 Un Jeu de rôle Grandeur Nature, abrégé donc “GN”, est un jeu dans lequel chaque personne joue un “rôle”, c’est à dire un personnage. Ce personnage a une histoire, des missions à remplir, et des “compétences” particulières. La base du jeu repose sur l’observation, la discussion, et l’interaction. Promenez-vous, posez des questions en lien avec vos missions, faites vivre votre personnage et son histoire, et saisissez les opportunités qui se présentent. Pour interagir avec les autres, hormis les compétences particulières, vous n’aurez pas besoin de décrire une action, mais simplement de la faire. Si vous voulez voler un parchemin oublié sur une table, faites-le. Tant que cela reste dans les règles. L’important est de garder le rôle un maximum. C’est ce qu’on appelle le Roleplay (RP), même s’il est bien sûr autorisé de faire des “pauses” dans le jeu pour sortir du personnage quand vous le voulez. Cependant, comme dans un film, les interruptions ont tendance à casser l’immersion. Imaginez si dans un film d’action, l’acteur·rice faisait une pause en plein combat pour demander à ce qu’un·e assistant·e vienne le recoiffer... Il est donc conseillé de s’assurer que les autres joueurs·ses sont aussi prêts à faire une pause, et rester discret si possible, ou alors se mettre en retrait. Nous ne sommes pas draconique, on peut tous faire des pauses et rigoler hors du jeu, mais essayons de ne pas briser l’élan des autres joueurs·ses !
 Cela étant, et nous insistons là-dessus, les premiers principes qui doivent régir le déroulement du jeu sont la légalité, la sécurité, l’éthique, le respect et l’amusement. En somme, même si cela peut sembler évident, *aucune situation de jeu ne peut justifier un comportement illégal, qui irait contre l’éthique (notamment l’écologie, le consentement, la discrimination “réelle”, un joueur qui ferait preuve de mal être ou de détresse…), la sécurité, et le respect mutuel de l’amusement de chacun*. Si vous n’aimez pas la façon dont quelqu’un joue, rien ne vous force à jouer avec lui. En cas de conflit, levez le poing et venez nous voir. Tout le monde est là pour passer un bon moment de cohésion et d’amusement dans un cadre de sécurité physique ET morale. 
 Il faut autant que possible respecter le jeu des autres tant que cela ne nuit pas à l’éthique et aux règles. C’est à dire que si tu fais une pause cigarette et qu’un·e autre joueur·se vient défier en duel le champion de votre groupe, il est quelque peu malvenu de lui lancer “heu, ouais, attends, il finit sa clope et il arrive. T’veux une bière en attendant ?”; mieux vaut essayer un maximum de jouer le jeu ou de se mettre assez à l’écart de l’action pour ne pas briser l’immersion !  Mais de la même manière, si tu es en pleine discussion capitale et qu’on t’assassine… et bien c’est le jeu. Même si c’est totalement injuste et avec un mauvais timing.
+
+
+##Fair-play, fluff and roots
 De la même manière, le Fair-Play est essentiel au plaisir du jeu : il n’est pas possible de “gagner” le jeu. Le seul objectif du jeu est de vivre des histoires, de rigoler et de créer des aventures ensemble en jouant des rôles. Cela peut passer par la défaite, par la mort ou des situations inconfortables. Perdre un combat peut créer une situation de jeu intéressante. Même mourir peut offrir un très bon moment de jeu, et comptez sur nous pour ne pas vous laisser vous ennuyer si cela devait vous arriver. Mais il n’y aura pas toujours un arbitre derrière vous pour vérifier que vous respectez les règles. C’est à vous d’être honnête et de “jouer le jeu”. 
 
 Dans nos Gns, nous vous faisons confiance et nous vous laissons gérer vos pouvoirs et actions. Notre objectif est de permettre à des inconnus de pouvoir partager une aventure en immersion le temps d'un week-end, en abordant des problématiques réelles à travers une histoire et un jeu offrant rires et frissons. 
-
   
 Si jamais vous soupçonnez un joueur·se de “tricher”, partez du principe qu’il ou elle est dans son droit. Jouez le jeu, puis quand il y aura une pause, allez voir un Orga. Il est probable que le joueur·se ait un pouvoir que vous ne connaissez pas.  
 Si jamais vous voyez un joueur·se qui ne respecte pas les règles de base, refusez simplement de jouer avec en l’ignorant, puis venez en parler à un orga. Utilisez toujours en priorité le bon sens, en partant de façon hiérarchique par les notions de *sécurité, légalité, éthique, bon sens, règles du jeu, fairplay et fun.* 
 Enfin, gardez à l’esprit que comme chacun·e joue un jeu, il peut arriver que certains personnages vous semblent agressifs, désagréables, ou antipathiques. Attention, n’oubliez pas que tous jouent un rôle et sont peut-être adorables par ailleurs ! Alan Rickman, nous pensons à toi.
+
+De manière générale, attendez-vous dans nos Gns à de l'humour décalé, des scènes, et une tentative de laisser autant de liberté que possible aux joueurs tout en leur proposant une trame principale bien chargée. Les joueurs peuvent largement influer le cours de l'histoire et du jeu, mais nous avons prévu une batterie d'événements qui ponctueront tout le week-end et qui feront monter la pression progressivement !
+
 #  Règles du Jeu
 Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : *le combat, l’utilisation de compétences, et les actions de jeu.* 
 
@@ -43,12 +48,16 @@ Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous
 Les mondes d’Erenthrym et d’Ebenaum sont peuplés de différentes créatures, que l’on regroupe pour la plupart dans des “espèces”. Vous saurez de manière générale peu de choses sur les autres espèces que la vôtre, mais il va de soi que chacune d’entre elles possède une morphologie spécifique, et donc que les règles qui lui permettent de vivre sont différentes.  
 Cependant, et notamment pour des raisons de jouabilité, la plupart des espèces fonctionnent avec un système de points de vie (PV), qui, une fois perdus, demanderont des soins pour être récupérés.  
 Mais comme vous l’aurez compris, certaines personnes auront le don de pouvoir se régénérer, d’autres n’auront pas de points de vie mais des points d’esprits, etc... Attendez-vous donc peut-être à des surprises.  
-*Règles de vie* :  
-- Lorsque vous ne perdez que 1 PV, c’est une éraflure, et vous le récupérez au bout d’une heure si vous ne subissez pas d’autres dégâts. 
-- Si vous perdez plus d’1PV dans l’heure, vous aurez besoin de soins. 
-- Lorsqu’il ne vous reste que 1PV, vous êtes en grande souffrance, et vous peinez à vous déplacer (vous boitez), ou effectuer toute action.  
-- Lorsqu’il ne vous reste que 0PV, vous tombez au sol. Vous pouvez encore appeler à l’aide, peut-être vous trainer un peu mais vous agonisez. Si une personne vient vous achever vous ne pouvez plus parler ni remuer. Au bout de 5 minutes, si personne n’est venu vous stabiliser, vous mourrez. Relevez-vous, hors-jeu, et allez voir un orga. Et ne parlez à personne sur la route ! Vous pourrez jouer un personnage bis ou avec de la chance vous en tirer avec une autre solution. Un personnage qui est “mort”, même ressuscité, oublie toujours l’heure précédant son trépas. 
-Une personne “agonisante” ou blessée transportée dans le “lit” de son camp reprendra 1 PV par repos de 20 minutes.   
+-table-Règles de vie:  
+| Conséquences
+Perte de 1 PV | c’est une éraflure. Vous le récupérerez après une heure sans autre blessure.
+Perte de 2PV ou + | Vous aurez besoin de soins. 
+1 Pv restant| Vous êtes en grande souffrance, et vous peinez à vous déplacer (vous boitez), ou effectuer toute action.  
+0PV | vous tombez au sol. Vous pouvez encore appeler à l’aide, peut-être vous trainer un peu mais vous agonisez pendant 5 minutes.
+Achevé| en état d'agonie, cela vous ôte la capacité de parler ou remuer. Au bout de 5 minutes, si personne n’est venu vous stabiliser, vous mourrez. 
+Trépas| Relevez-vous, hors-jeu, et allez voir un orga. Et ne parlez à personne sur la route ! Vous pourrez jouer un personnage bis ou avec de la chance vous en tirer avec une autre solution. Un personnage qui est “mort”, même ressuscité, oublie toujours l’heure précédant son trépas. 
+Lit de camp | Une personne “agonisante” ou blessée transportée dans le “lit” de son camp reprendra 1 PV par repos de 20 minutes. 
+-table-  
 __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à tenir compte malgré tout qu’un coup dans un membre vous fait souffrir ce membre en particulier. Plusieurs coups dans la même jambe devraient vous empêcher de vous en servir, par exemple.__ 
 
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
@@ -78,14 +87,24 @@ Pour créer votre personnage, vous aurez à choisir :
 ##Actions spéciales
 a l’opposé des compétences qu’il vous faut « acquérir » lors de la création de personnage, les actions spéciales sont des actions accessibles à tout le monde. Attention, certains personnages peuvent être insensibles à ces actions. Ils vous en avertiront. 
 __De plus, en rappel de ce qui est évoqué en préambule, vérifiez toujours que vous avez l'accord de l'autre joueur pour toute scène qui pourrait impliquer un contact physique ou un inconfort. Et restez à l'écoute de la victime pour vérifier qu'elle supporte bien la scène, et qu'elle coopère. La scène n'en sera que meilleure. Sinon, tant pis, faites autrement. __
-*ACHEVER* : lorsqu’une victime est à terre, agonisante et gémissante et que vous voulez la faire taire, approchez-vous doucement, sans brutalité, et posez votre arme sur son épaule (délicatement), en faisant un geste de trancher son épaule. Puis annoncez “Achever. Tu ne peux plus parler ou bouger”
-*STABILISER* : Si vous repérez une personne agonisante, vous pouvez vous en approcher, et lui prendre la main ou rester près d’elle pour la “stabiliser”. En faisant cela, vous prolongez son agonie de 5 minutes à 15 minutes. Vous pouvez aussi la déplacer (en mimant que vous la portez par les épaules à bras le corps.
-*RE-EMBOITER* : Vous pouvez aider une personne à “soigner” un membre brisé en mimant la scène. Faites un Chifoumi. Si vous perdez, vous infligez SOUFFRANCE au lieu de le soigner.
-*FOUILLER* : Approchez-vous auprès de la victime, et mettez une main au-dessus (sans contact) de l’objet ou la partie du corps que vous voulez fouiller. La personne doit vous dire si vous y trouvez un objet. Il n’est pas possible de dire “je te fouille toutes tes poches”.
-*CORPS A CORPS* : En dehors d’un combat (ou alors de façon délicate) posez votre main sur l’épaule d’une personne et annoncez-lui discrètement “DUEL”. Faites un Chifoumi. Celle ou celui qui gagne infligera “UN CHOC” à l’autre. Mimez ensuite la scène.
+-table- 
+|Liste des actions spéciales 
+ACHEVER | lorsqu’une victime est à terre, agonisante et gémissante et que vous voulez la faire taire, approchez-vous doucement, sans brutalité, et posez votre arme sur son épaule (délicatement), en faisant un geste de trancher son épaule. Puis annoncez “Achever. Tu ne peux plus parler ou bouger”
+STABILISER | Si vous repérez une personne agonisante, vous pouvez vous en approcher, et lui prendre la main ou rester près d’elle pour la “stabiliser”. En faisant cela, vous prolongez son agonie de 5 minutes à 15 minutes. Vous pouvez aussi la déplacer (en mimant que vous la portez par les épaules à bras le corps.
+REMBOITER | Vous pouvez aider une personne à “soigner” un membre brisé en mimant la scène. Faites un Chifoumi. Si vous perdez, vous infligez SOUFFRANCE au lieu de le soigner.
+FOUILLER | Approchez-vous auprès de la victime, et mettez une main au-dessus (sans contact) de l’objet ou la partie du corps que vous voulez fouiller. La personne doit vous dire si vous y trouvez un objet. Il n’est pas possible de dire “je te fouille toutes tes poches”.
+LUTTE | En dehors d’un combat (ou alors de façon délicate) posez votre main sur l’épaule d’une personne et annoncez-lui discrètement “DUEL”. Faites un Chifoumi. Celle ou celui qui gagne infligera “UN CHOC” à l’autre. Mimez ensuite la scène.
+-table-
+##Caractéristiques
+C’est un élément important du GN. Chaque caractéristique se divise en “branches”.  Lors de la création de votre personnage, vos choix vous donneront certains points, mais vous aurez aussi à en répartir d'autres librement, à la manière d'un jeu de rôle traditionnel.  
+Le “niveau” de chaque branche va vous permettre de débloquer certaines compétences, certains bonus, et surtout d’infléchir sur votre personnalité. Ainsi, une personne ayant très peu de MENTAL aura peur de tout, tandis que quelqu’un ayant un niveau 4 de MENTAL semblera n’avoir peur de rien.  
+Les niveaux d’une branche vont de –2 à 4.  
+Le niveau d’une caractéristique correspond à celui la branche la plus élevée. Pendant le jeu, il est possible que certains événements influent ou jouent avec votre niveau de caractéristique. Mais si vous perdez des points dans une caractéristique, cela ne change rien à vos bonus et compétences déjà acquis. Le niveau d’une caractéristique n’est utile que pour certains tests à passer.  __(Par exemple, vous buvez une potion dont le papier dit “si vous avez moins de 3 en PHYSIQUE, vous perdez 3 PVs)__
+
+*Le détail des caractéristiques vous sera donné dans le fichier de création de personnage.*
 
 ##Compétences
-Vous seul et les orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages.
+Vous seul et les Orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages.
  Elles nécessitent quasiment toujours des conditions pour être effectuées, à vous de les respecter. Il existe de nombreuses compétences “uniques” dans notre système de jeu, il est donc normal que vous soyez surpris par ce que peut faire un personnage. Cela étant, les compétences sont là pour faciliter la représentation de certains “pouvoirs”, mais elles ne sont pas là pour remplacer le “roleplay” (RP). A vous de jouer au maximum l’annonce des compétences. Par exemple, si votre pouvoir consiste à torturer une personne pour lui faire avouer la vérité, ne vous contentez pas de lui lancer un “hey, salut. Au fait, TORTURE.”, mais essayez de jouer la scène, pour ensuite, si possible discrètement, annoncer l’effet à la victime, et, si besoin, lui expliquer ce qu’il se passe.  Dans le détail. En souriant.
 
 Certaines compétences peuvent être contrées, il faut aussi l’accepter ! En cas de doute sur une compétence, n’hésitez pas à venir en parler à un orga.  
@@ -97,11 +116,6 @@ __Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur
 
 ##Effets
 Les “EFFETS” sont des mots-clés qui représentent des indications de jeu. Certaines compétences (skills) auront peut-être des EFFETS un peu exotiques, qui pourront au besoin être expliqués par un Orga ou par les joueurs·es, mais voici déjà la liste des effets les plus courants, à apprendre par cœur (y aura peut-être un contrôle !).  
-Caractéristiques
-C’est un élément important du GN. Chaque caractéristique se divise en “branches”.  
-Le “niveau” de chaque branche va vous permettre de débloquer certaines compétences, certains bonus, et surtout d’infléchir sur votre personnalité. Ainsi une personne ayant très peu de MENTAL aura peur de tout, tandis que quelqu’un ayant un niveau 4 de MENTAL semblera n’avoir peur de rien.  
-Les niveaux d’une branche vont de –2 à 4.  
-Le niveau d’une caractéristique correspond à celui la branche la plus élevée. Pendant le jeu, il est possible que certains événements influent ou jouent avec votre niveau de caractéristique. Mais si vous perdez des points dans une caractéristique, cela ne change rien à vos bonus et compétences déjà acquis. Le niveau d’une caractéristique n’est utile que pour certains tests à passer.  (Par exemple, vous buvez une potion dont le papier dit “si vous avez moins de 3 en PHYSIQUE, vous perdez 3 PVs)
 
 ##Inventaire
  Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont dans l’annexe XX.
@@ -190,7 +204,7 @@ Il y aura si tout va bien quelques douches solaires sur le site mais n’hésite
 - *Votre vaisselle* : en bois ou en métal, c'est plus résistant et plus d'époque.
 ##Votre arrivée
 Le jeu se déroulera à XXXXXXXXXXX
-Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part.
+Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part. Des navettes depuis la grande gare la plus proche seront mises en place au besoin. 
 Lorsque vous arrivez, vous pouvez vous garer sur le parking temporaire qui sera indiqué. Nous vous demanderons de venir nous prévenir de votre arrivée au PC orga, puis de décharger vos affaires et monter votre camp (vous pourrez éventuellement y aller en voiture). Vous devrez ensuite garer votre voiture au parking. Puis vous irez voir votre référent·e au PC orga pour un briefing personnel si besoin, et surtout recevoir votre enveloppe de jeu. Si vous n’avez pas pu trouver d’imprimante, on pourra vous imprimer votre feuille ou un livret. Ensuite, il sera temps pour vous d’aller vous pouponner et de venir ripailler. 
 *Il est important* que vous restiez un maximum dans vos camps en attendant le début du jeu, pour ne pas vous gâcher la surprise ! 
 Nous vous conseillons d’arriver en début d’après-midi afin de vous installer tranquillement et d’être prêts·es  pour le briefing général qui aura lieu à 20h30. Un briefing de groupe et PNJ sera prévu à 21h00 le début de jeu étant prévu pour 21h30.  Si vous arrivez en retard, équipez-vous, puis dirigez-vous vers le PC orga pour qu'un orga vous briefe. Si vous souhaitez arriver avant et/ou rester après jusqu’au lundi pour donner un petit coup de main et ou profiter de la région, vous êtes évidemment les bienvenus·es ;)  
@@ -201,6 +215,29 @@ __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas 
 #Ce que vous savez du monde...
 
 Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Le “livre du monde” correspondant aux connaissances précises de votre personnage selon son histoire fera partie de votre fiche de personnage qui arrivera donc plus tard. 
+
+##Les "factions" de départ
+
+Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
+
+*Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ? Parfait pour les vétérans d'Ebenaum ou si vous venez seul ou à deux ou trois personnes. Cependant, ce groupe est soumis à des pressions importantes !
+
+*La Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
+
+*Les voyageurs* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
+
+
+#Conclusion
+
+Pour finir, nous aimerions vous remercier de votre intérêt, de votre patience et de votre enthousiasme. Pendant ces longues années sans organiser de grand jeu, nous avons observé et travaillé avec de nombreuses associations diverses pour essayer d'en apprendre le meilleur. Nous avons hâte de vous (re)trouver pour partager un nouveau week-end d'aventures improbables !
+
+Nous avons conscience que nous prenons quelques partis pris qui peuvent paraître audacieux, mais nous espérons que cela participera à créer une atmosphère intense et à créer une épopée vibrante et unique. 
+
+Avant de vous ruer sur nos mails, messenger et autres pour nous demander où est le détail des caractéristiques ou des groupes, n'oubliez pas de d'abord regarder le formulaire de création de personnage qui répondra à de nombreuses questions, et, pour ce qui concerne des informations sur le monde, à vous armer d'un peu de patience, car nous voulons que vous choisissiez d'abord un camp pour ne vous donner qu'une vision "lacunaire" du tableau d'ensemble. Oui, c'est sadique. 
+
+Nous finissons avec une galerie de portrait des différents orgas, pour que vous sachiez qui vous allez devoir agresser pour trouver vos réponses ! 
+
+Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 
 
 
