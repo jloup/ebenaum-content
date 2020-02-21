@@ -200,7 +200,7 @@ Sont totalement proscrits, sous peine de possible exclusion :
 - *les coups d’estoc* (coup fait pour “planter” ou “percer”), car les armes de Gn possèdent une “âme” solide qui pourrait percer la mousse et cause de vraies blessures.
 - *les coups à la tête*, à la poitrine et à l’entrejambe, qui sont des zones sensibles. 
 - *Les coups violents*. Fouetter l’air de son arme, ne pas retenir sa force ou user de techniques causant de vraies blessures. Exemple : un bouclier sous la gorge. 
-\img(/img/mercy.jpg,float-right)
+\img(/img/mercy.jpg, float-right)
 L’utilisation des armes de façon inappropriée et dangereuse. Lancer une arme dont la poignée est rigide, par exemple. Ou se battre avec un arc. Sauvage. 
 Tout combat doit être stoppé et déplacé si le moindre danger apparaît (ronces ou zone dangereuse, énervement des combattants, arme brisée…)
 La beauté du geste vient ensuite. Nous vous encourageons à représenter le poids d’une arme réelle en acier, ainsi que l’habileté de votre personnage à la manier. Ainsi, les coups “mitraillettes” (plusieurs coups rapides sans armer les frappes) ne sont pas réalistes et ne compteront que pour une seule “touche”. 
