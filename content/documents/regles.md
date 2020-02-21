@@ -1,18 +1,18 @@
-
-
-
-
-
-
 # Présentation du GN 
- ## Introduction
+
+## Introduction
+
 \img(/img/Logo.jpg, logo, ,w350)
 Greetings, companerõs !  
 Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
 Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi à ton trépas), en commençant par une présentation générale des règles d’un jeu de rôle grandeur nature, que nous te conseillons de lire, même si tu es un·e vétéran du genre. On te voit, là, en train de chercher à scroller directement à la section “tuer des gens”.  
- 	Nous avons voulu créer des mécaniques à la fois simples et innovantes tout en étant empreintes d’une nostalgie de l’époque où les pyramides et les polyèdres engravés de runes numériques (des dés, quoi) régnaient sur le monde du jeu de rôles sur table.  
- 	Le monde d’Erenthyrm a ceci de surprenant que l’imagination et la magie y sont des ressources rares et surtout indomptées. Bien que ce monde puisse sembler empreint de “féerie”; pour les autochtones, il paraît bien sombre et fade. Les nuits sont obscures, la nourriture se débat, et les rêves sont trop rares pour soulager les esprits occupés à survivre. Mais chut ! Nous n’en dirons pas plus pour ne pas gâcher la surprise des nouveaux arrivants !   
-Nous vous invitons donc à découvrir et bâtir ce monde dans lequel les aventuriers d’Ebenaum vont apporter bien malgré eux leur lot d’humour et d’épique, d’aventure et de mystères !  
+ 
+Nous avons voulu créer des mécaniques à la fois simples et innovantes tout en étant empreintes d’une nostalgie de l’époque où les pyramides et les polyèdres engravés de runes numériques (des dés, quoi) régnaient sur le monde du jeu de rôles sur table.  
+ 
+Le monde d’Erenthyrm a ceci de surprenant que l’imagination et la magie y sont des ressources rares et surtout indomptées. Bien que ce monde puisse sembler empreint de “féerie”; pour les autochtones, il paraît bien sombre et fade. Les nuits sont obscures, la nourriture se débat, et les rêves sont trop rares pour soulager les esprits occupés à survivre. Mais chut ! Nous n’en dirons pas plus pour ne pas gâcher la surprise des nouveaux arrivants !
+
+Nous vous invitons donc à découvrir et bâtir ce monde dans lequel les aventuriers d’Ebenaum vont apporter bien malgré eux leur lot d’humour et d’épique, d’aventure et de mystères !
+
 Les informations sur l’univers vous seront données dans vos fiches de personnages fin que chacun garde une part de surprise dans la rencontre avec les autres “camps”. Les règles ci-dessous concernent avant tout les mécaniques de jeu et l’organisation en général. Bonne lecture, et méfiez-vous du Crapaud.  Mais faites confiance à la mycose. Ou ne le faites pas.  
 
 -table-Lexique
@@ -23,15 +23,17 @@ PNJ: Personnage non-joueur·se. C’est une personne qui incarne des personnages
 -table-
  
  
-
 ## Principes généraux 
-Bon, tout d’abord, qu’est-ce qu’un GN ? Nous pensons à toi, jeune inconscient·e qui a été forcé·e de rejoindre notre équipage poussé par quelques personnes persuasives. Laisse-nous t’éclairer... 
+Bon, tout d’abord, qu’est-ce qu’un GN ? Nous pensons à toi, jeune inconscient·e qui a été forcé·e de rejoindre notre équipage poussé par quelques personnes persuasives. Laisse-nous t’éclairer...
+
 Un Jeu de rôle Grandeur Nature, abrégé donc “GN”, est un jeu dans lequel chaque personne joue un “rôle”, c’est à dire un personnage. Ce personnage a une histoire, des missions à remplir, et des “compétences” particulières. La base du jeu repose sur l’observation, la discussion, et l’interaction. Promenez-vous, posez des questions en lien avec vos missions, faites vivre votre personnage et son histoire, et saisissez les opportunités qui se présentent. Pour interagir avec les autres, hormis les compétences particulières, vous n’aurez pas besoin de décrire une action, mais simplement de la faire. Si vous voulez voler un parchemin oublié sur une table, faites-le. Tant que cela reste dans les règles. L’important est de garder le rôle un maximum. C’est ce qu’on appelle le Roleplay (RP), même s’il est bien sûr autorisé de faire des “pauses” dans le jeu pour sortir du personnage quand vous le voulez. Cependant, comme dans un film, les interruptions ont tendance à casser l’immersion. Imaginez si dans un film d’action, l’acteur·rice faisait une pause en plein combat pour demander à ce qu’un·e assistant·e vienne le recoiffer... Il est donc conseillé de s’assurer que les autres joueurs·ses sont aussi prêts à faire une pause, et rester discret si possible, ou alors se mettre en retrait. Nous ne sommes pas draconique, on peut tous faire des pauses et rigoler hors du jeu, mais essayons de ne pas briser l’élan des autres joueurs·ses !
-Cela étant, et nous insistons là-dessus, les premiers principes qui doivent régir le déroulement du jeu sont la légalité, la sécurité, l’éthique, le respect et l’amusement. En somme, même si cela peut sembler évident, *aucune situation de jeu ne peut justifier un comportement illégal, qui irait contre l’éthique (notamment l’écologie, le consentement, la discrimination “réelle”, un joueur qui ferait preuve de mal être ou de détresse…), la sécurité, et le respect mutuel de l’amusement de chacun*. Si vous n’aimez pas la façon dont quelqu’un joue, rien ne vous force à jouer avec lui. En cas de conflit, levez le poing et venez nous voir. Tout le monde est là pour passer un bon moment de cohésion et d’amusement dans un cadre de sécurité physique ET morale. 
+
+Cela étant, et nous insistons là-dessus, les premiers principes qui doivent régir le déroulement du jeu sont la légalité, la sécurité, l’éthique, le respect et l’amusement. En somme, même si cela peut sembler évident, *aucune situation de jeu ne peut justifier un comportement illégal, qui irait contre l’éthique (notamment l’écologie, le consentement, la discrimination “réelle”, un joueur qui ferait preuve de mal être ou de détresse…), la sécurité, et le respect mutuel de l’amusement de chacun*. Si vous n’aimez pas la façon dont quelqu’un joue, rien ne vous force à jouer avec lui. En cas de conflit, levez le poing et venez nous voir. Tout le monde est là pour passer un bon moment de cohésion et d’amusement dans un cadre de sécurité physique ET morale.
+
 Il faut autant que possible respecter le jeu des autres tant que cela ne nuit pas à l’éthique et aux règles. C’est à dire que si tu fais une pause cigarette et qu’un·e autre joueur·se vient défier en duel le champion de votre groupe, il est quelque peu malvenu de lui lancer “heu, ouais, attends, il finit sa clope et il arrive. T’veux une bière en attendant ?”; mieux vaut essayer un maximum de jouer le jeu ou de se mettre assez à l’écart de l’action pour ne pas briser l’immersion !  Mais de la même manière, si tu es en pleine discussion capitale et qu’on t’assassine… et bien c’est le jeu. Même si c’est totalement injuste et avec un mauvais timing.
 
 
-##Fair-play, fluff and roots
+## Fair-play, fluff and roots
 De la même manière, le Fair-Play est essentiel au plaisir du jeu : il n’est pas possible de “gagner” le jeu. Le seul objectif du jeu est de vivre des histoires, de rigoler et de créer des aventures ensemble en jouant des rôles. Cela peut passer par la défaite, par la mort ou des situations inconfortables. Perdre un combat peut créer une situation de jeu intéressante. Même mourir peut offrir un très bon moment de jeu, et comptez sur nous pour ne pas vous laisser vous ennuyer si cela devait vous arriver. Mais il n’y aura pas toujours un arbitre derrière vous pour vérifier que vous respectez les règles. C’est à vous d’être honnête et de “jouer le jeu”. 
 
 Dans nos Gns, nous vous faisons confiance et nous vous laissons gérer vos pouvoirs et actions. Notre objectif est de permettre à des inconnus de pouvoir partager une aventure en immersion le temps d'un week-end, en abordant des problématiques réelles à travers une histoire et un jeu offrant rires et frissons. 
@@ -41,7 +43,6 @@ Si jamais vous voyez un joueur·se qui ne respecte pas les règles de base, refu
 Enfin, gardez à l’esprit que comme chacun·e joue un jeu, il peut arriver que certains personnages vous semblent agressifs, désagréables, ou antipathiques. Attention, n’oubliez pas que tous jouent un rôle et sont peut-être adorables par ailleurs ! Alan Rickman, nous pensons à toi.
 
 De manière générale, attendez-vous dans nos Gns à de l'humour décalé, des scènes, et une tentative de laisser autant de liberté que possible aux joueurs tout en leur proposant une trame principale bien chargée. Les joueurs peuvent largement influer le cours de l'histoire et du jeu, mais nous avons prévu une batterie d'événements qui ponctueront tout le week-end et qui feront monter la pression progressivement !
-
 
 #  Règles du Jeu
 Lors de vos interactions avec les autres joueurs·ses, outre la discussion, vous allez probablement avoir besoin de recourir à 3 mécaniques : *le combat, l’utilisation de compétences, et les actions de jeu.* 
@@ -67,6 +68,7 @@ Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaq
 \img(/img/Hennessy.jpg, Henessy, center, w400)
 
 ##Actions de jeu
+
 Dans un Jeu de rôle, la plupart des choses sont à accomplir vous-même. Pour esquiver des coups de hache, ce sera à vous de vous dérouiller les genoux. Les compétences sont là pour représenter des capacités exceptionnelles -comme par exemple désarmer à coup sûr un ou une adversaire- mais vous avez le droit de tenter de désarmer quelqu’un par vos talents propres, tant que vous respectez les règles de jeu et de sécurité.  
 Ainsi, vous pouvez accomplir de nombreuses actions basiques tant que :
 - Elles ne demandent pas de talent particulier (ex: herboristerie)
@@ -77,7 +79,9 @@ Par exemple, vous pouvez “ligoter” une personne si vous avez de quoi la ligo
 Vous avez par exemple aussi le droit de voler quelqu’un, si vous êtes capable de ne pas être repéré. Mais une compétence de “vol” vous aidera beaucoup à le faire.  
 De plus, songez toujours au roleplay : par exemple, un soigneur au cœur tendre serait probablement très peu enclin psychologiquement à se lancer dans une action de “torture”... En tout cas hors d’un contexte d’intimité dont nous ne voulons rien savoir.
 Le contact physique est à manier avec respect et précaution. De plus, s’il y a des situations ou rôles que vous ne souhaitez pas jouer dites-le et n’hésitez surtout pas à venir nous en faire part. Nos valeurs clés sont le bien-être, le respect et l’amusement de chacun, avec un maximum de liberté dans les limites de celles des autres !
-##Création de personnage :  
+
+## Création de personnage
+
 Pour créer votre personnage, la méthode la plus simple consiste à vous rendre sur notre formulaire de création de personnage en ligne qui calculera tout pour vous. (si vous ne le pouvez pas, merci de nous contacter) Vous trouverez sur notre site internet tous les éléments nécessaires à la création de votre personnage dès que cette phase sera lancée. 
 Pour créer votre personnage, vous aurez à choisir : 
 1- le type d'inscription que vous voulez réaliser pour le GN.
@@ -89,6 +93,7 @@ Pour créer votre personnage, vous aurez à choisir :
 7 - et enfin quelques informations complémentaires pour que les orgas puissent composer votre personnage et inventer vos compétences ! 
 
 ##Actions spéciales
+
 a l’opposé des compétences qu’il vous faut « acquérir » lors de la création de personnage, les actions spéciales sont des actions accessibles à tout le monde. Attention, certains personnages peuvent être insensibles à ces actions. Ils vous en avertiront. 
 __De plus, en rappel de ce qui est évoqué en préambule, vérifiez toujours que vous avez l'accord de l'autre joueur pour toute scène qui pourrait impliquer un contact physique ou un inconfort. Et restez à l'écoute de la victime pour vérifier qu'elle supporte bien la scène, et qu'elle coopère. La scène n'en sera que meilleure. Sinon, tant pis, faites autrement. __
 -table- 
@@ -99,7 +104,9 @@ REMBOITER | Vous pouvez aider une personne à “soigner” un membre brisé en 
 FOUILLER | Approchez-vous auprès de la victime, et mettez une main au-dessus (sans contact) de l’objet ou la partie du corps que vous voulez fouiller. La personne doit vous dire si vous y trouvez un objet. Il n’est pas possible de dire “je te fouille toutes tes poches”.
 LUTTE | En dehors d’un combat (ou alors de façon délicate) posez votre main sur l’épaule d’une personne et annoncez-lui discrètement “DUEL”. Faites un Chifoumi. Celle ou celui qui gagne infligera “UN CHOC” à l’autre. Mimez ensuite la scène.
 -table-
+
 ##Caractéristiques
+
 C’est un élément important du GN. Chaque caractéristique se divise en “branches”.  Lors de la création de votre personnage, vos choix vous donneront certains points, mais vous aurez aussi à en répartir d'autres librement, à la manière d'un jeu de rôle traditionnel.  
 Le “niveau” de chaque branche va vous permettre de débloquer certaines compétences, certains bonus, et surtout d’infléchir sur votre personnalité. Ainsi, une personne ayant très peu de MENTAL aura peur de tout, tandis que quelqu’un ayant un niveau 4 de MENTAL semblera n’avoir peur de rien.  
 Les niveaux d’une branche vont de –2 à 4.  
@@ -108,9 +115,9 @@ Le niveau d’une caractéristique correspond à celui la branche la plus élev�
 *Le détail des caractéristiques vous sera donné dans le fichier de création de personnage.*
 
 ##Compétences
-Vous seul et les Orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages. \img(/img/meal.jpg, Esbrouffe, right,w400 )
- Elles nécessitent quasiment toujours des conditions pour être effectuées, à vous de les respecter. Il existe de nombreuses compétences “uniques” dans notre système de jeu, il est donc normal que vous soyez surpris par ce que peut faire un personnage. Cela étant, les compétences sont là pour faciliter la représentation de certains “pouvoirs”, mais elles ne sont pas là pour remplacer le “roleplay” (RP). A vous de jouer au maximum l’annonce des compétences. Par exemple, si votre pouvoir consiste à torturer une personne pour lui faire avouer la vérité, ne vous contentez pas de lui lancer un “hey, salut. Au fait, TORTURE.”, mais essayez de jouer la scène, pour ensuite, si possible discrètement, annoncer l’effet à la victime, et, si besoin, lui expliquer ce qu’il se passe.  Dans le détail. En souriant.
 
+Vous seul et les Orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages. \img(/img/meal.jpg, Esbrouffe, right, w250)
+ Elles nécessitent quasiment toujours des conditions pour être effectuées, à vous de les respecter. Il existe de nombreuses compétences “uniques” dans notre système de jeu, il est donc normal que vous soyez surpris par ce que peut faire un personnage. Cela étant, les compétences sont là pour faciliter la représentation de certains “pouvoirs”, mais elles ne sont pas là pour remplacer le “roleplay” (RP). A vous de jouer au maximum l’annonce des compétences. Par exemple, si votre pouvoir consiste à torturer une personne pour lui faire avouer la vérité, ne vous contentez pas de lui lancer un “hey, salut. Au fait, TORTURE.”, mais essayez de jouer la scène, pour ensuite, si possible discrètement, annoncer l’effet à la victime, et, si besoin, lui expliquer ce qu’il se passe.  Dans le détail. En souriant.
 
 Certaines compétences peuvent être contrées, il faut aussi l’accepter ! En cas de doute sur une compétence, n’hésitez pas à venir en parler à un orga.  
 La plupart des compétences vont générer un “EFFET” dont les plus courants seront explicités plus loin (voir chapitre compétences). Si vous avez un doute sur un effet, demandez discrètement ou bien à travers votre personnage : “mais que m’arrive-t-il ?” pour que l’autre joueur·se comprenne qu’il ou elle doit décrire l’effet. Si jamais vous êtes pris dans le feu de l’action et que vous ne comprenez pas un effet, le mieux est de simuler un choc violent.  
@@ -123,7 +130,7 @@ __Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur
 
 Les “EFFETS” sont des mots-clés qui représentent des indications de jeu. Certaines compétences (skills) auront peut-être des EFFETS un peu exotiques, qui pourront au besoin être expliqués par un Orga ou par les joueurs·es, mais voici déjà la liste des effets les plus courants, à apprendre par cœur (y aura peut-être un contrôle !). 
  -table-
-Appel | description
+Appel | Description
 SOUFFRANCE	|Vous vous tordez de douleur 5 à 10 secondes. Vous ne pouvez rien faire d'autre mais êtes insensible aux dégâts.					
 SOUFFR. MENTALE|	Comme Souffrance, mais n'étant pas physique, vous ne pouvez pas y résister à moins d'une compétence spéciale.				
 EXECUTION|	Vous faites tomber à 0 PV, et vous ne pouvez plus gémir ou gesticuler lors de votre agonie. 					
@@ -145,9 +152,10 @@ couronne rouge|	Cette personne dégage un effet d'EFFROI en permanence.
 ... PUISSANT|	Considérez que l'effet est doublé ou triplé.					
 ... DE MENTAL 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
-\img(/img/GustaveBrion.jpg, Gustave Brion, right)
+
 ##Inventaire
- Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
+\img(/img/GustaveBrion.jpg, Gustave Brion, right, w250)
+Les objets dans votre inventaire au début du GN sont à acheter lors de la création de votre personnage. Vous pouvez bien évidemment vous procurer des objets supplémentaires durant le jeu. La liste des objets communs en circulation sont ci-dessous.
 Il pourra aussi éventuellement être possible de fabriquer certains objets. 
 
 -table-
@@ -177,10 +185,9 @@ Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou
 
 ##Un mot sur la magie
 
+\img(/img/winter.png, Winter, right, w300)
+
 Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
-\img(/img/winter.png, Winter, )
-
-
 
 
 #Règles Logistiques
