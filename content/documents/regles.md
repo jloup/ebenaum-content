@@ -62,6 +62,8 @@ __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à te
 
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
 
+\img(/img/Hennessy.jpg,)
+
 ##Actions de jeu
 Dans un Jeu de rôle, la plupart des choses sont à accomplir vous-même. Pour esquiver des coups de hache, ce sera à vous de vous dérouiller les genoux. Les compétences sont là pour représenter des capacités exceptionnelles -comme par exemple désarmer à coup sûr un ou une adversaire- mais vous avez le droit de tenter de désarmer quelqu’un par vos talents propres, tant que vous respectez les règles de jeu et de sécurité.  
 Ainsi, vous pouvez accomplir de nombreuses actions basiques tant que :
@@ -230,7 +232,8 @@ Nous nous efforçons de nous fournir localement pour la confection de nos repas,
 Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
 Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
-##Déchets et environnement
+##Déchets et environnement 
+\img(/img/Foster.jpg, float-right)
 Zero déchets. Rien. Nada. Pas besoin d’en dire plus. Il y aura sur place des poubelles de tri, mais nous vous demandons au maximum de proscrire les couverts et les ustensiles en plastique, ainsi que les denrées emballées. 
 Dans l’hypothèse où nous parviendrions, selon nos plans, à installer des douches sur place, nous vous demandons de n’utiliser que des produits hygiéniques biodégradables. 
 Le respect de l'environnement de jeu est indispensable, et cela passe par le respect de la flore ET de la faune potentiellement rencontrée sur le site. Cela implique également le voisinage... Cela relève du savoir-vivre de base, mais mérite d'être rappelé. 
