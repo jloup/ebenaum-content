@@ -71,7 +71,7 @@ La plupart des compétences vont générer un “EFFET” dont les plus courants
 
 Exemple de compétences qui pourront vous être attribuées : 
 __Réflexes du guerrier : Vous ne subissez aucun dégât sur le premier coup reçu au combat.__
-__Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur pendant une demie-journée après une messe de 10 minutes. +1 par joueur maximum. __ 
+__Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur pendant une demie-journée après une messe de 10 minutes. +1 par joueur maximum.__ 
 
 ##Effets
 
@@ -140,7 +140,7 @@ Mais comme vous l’aurez compris, certaines personnes auront le don de pouvoir 
 -table-Règles de vie:  
 | Conséquences
 Perte de 1 PV | c’est une éraflure. Vous le récupérerez après une heure sans autre blessure.
-Perte de 2PV ou + | Vous aurez besoin de soins. 
+Perte de 2PV+ | Vous aurez besoin de soins. 
 1 Pv restant| Vous êtes en grande souffrance, et vous peinez à vous déplacer (vous boitez), ou effectuer toute action.  
 0PV | vous tombez au sol. Vous pouvez encore appeler à l’aide, peut-être vous trainer un peu mais vous agonisez pendant 5 minutes.
 Achevé| en état d'agonie, cela vous ôte la capacité de parler ou remuer. Au bout de 5 minutes, si personne n’est venu vous stabiliser, vous mourrez. 
@@ -204,11 +204,11 @@ Chaînes et cadenas éprouvés|	Pour s'assurer que leurs prisonniers ou objets d
 Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou securiser une porte. Peut être tranchée.
 -table-		
 
-\img(/img/GustaveBrion.jpg, Gustave Brion, center, w300)
+\img(/img/GustaveBrion.jpg, Gustave Brion, righ, w300)
 
 ##Argent et expérience
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
-
+~ 
 # Sécurité
 
 ##Arrêt de jeu et Safe Word
@@ -223,7 +223,7 @@ Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui
 
 ##Alcool et autres substances 
 Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
-Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
+Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’événement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
 
 ##Types d'acteurs
@@ -238,6 +238,34 @@ Les PJ | ce sont les joueurs réguliers, avec des missions précises et un histo
 Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
 -table-
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
+
+##Questions-Réponses pour les PNJ : 
+
+__Oh toi PNJ clairvoyant__
+__Ame de héros si charmant__
+__A la merci de nos talents__
+__Et de nos âcres relents__
+\img(/img/penance.jpg, penance, right,w400)
+__Nous prions pour toi PNJ__
+__Oui chaque matin c’est ainsi__
+__Afin que ton coeur soit ravi__
+__Et ton bel estomac aussi__
+__Pour que la chaleur t’épargne__
+__Ou qu’il révèle tous tes charmes__
+__Pour que Dame pluie te calme__
+__Sans éteindre ton héroïque flamme__
+__Tout cela pour te dire merci__
+__Sans toi nous sommes du vrai pipi__
+
+*Aurais-je un rôle fixe?*
+Nous le savons, en règle générale les rôles  "fixes" ont du mal à être tenus lorsque nous sommes pressés d’aller enfiler notre costume en latex d’homme gorille à 35°C. Nous avons donc privilégié pleins de petits rôles de compositions ponctuels et d’autres plus importants. Ce sera à vous lors de votre inscription de nous dire ce que vous aimeriez. Nous avons à coeur de bichonner nos PNJ qui sont des rôles essentiels au bon déroulement d’un GN que cela soit en terme de scénario, de photographie ou de logistique. Pour que tout se passe au mieux, nous vous donnerons un emploi du temps avec les rôles que nous vous avons réservés ainsi que certaines petites tâches logistiques. Vous aurez, en plus, à disposition lors de vos “temps morts” une grille de “personnages autonomes” que vous pourrez incarner à votre guise durant le jeu. Nous vous laisserons en toute confiance nos costumes et matériel dédiés à disposition. Si vous avez en tête de idées de rôles, surtout n’hésitez pas à venir nous en faire part durant le jeu. Notre objectif est que vous vous amusiez et que vous incarniez des personnages qui vous font plaisir.
+
+*Comment je m’habille?*
+Venez vêtu d’un costume de type médiéval fantastique neutre afin de déambuler tranquillement où vous voulez et incarner des petits rôles qui ne demandent pas de tenues particulières. Nous vous enverrons une grille de personnages à incarner, ainsi vous pourrez vous inscrire sur un type de rôle qui vous plaît et nous discuterons ensemble en amont costumes et maquillage. D’ailleurs pensez bien à nous dire en avance si vous êtes allergiques au latex ! 
+
+*Vais-je passer mon GN à vider des toilettes sèches?*
+
+Nous avons fait en sorte que tout le monde mette un peu la main à la pâte donc pas de panique, et nous ferons notre possible pour essayer d'alléger un maximum la gestion logistique. Vous aurez sur votre planning vos “missions logistiques”. On vous demandera d’être le.la plus ponctuel.le possible (que cela soit pour vos rôles dédiés ou pour votre coup de pouce logistique). On vous exploit...proposera de nous aider notamment sur la mise en place des repas (½ par jour et encore pas pour tout le monde).  
 
 # Règles Logistiques
 
@@ -312,15 +340,15 @@ Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mot
 
 ##Un mot sur la magie
 
-\img(/img/winter.png, Winter, right, w300)
 
 Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
 
 ##Langage
 
-Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. \img(/img/Speak.png, Langage, left)
-Pour des raisons très pratiques, nous avons décidé de représenter la barrière de la langue en demandant aux habitants d’Erenthyrm de devoir parler en anglais, surtout en public. On pourra tolérer que des joueurs d’Erenthyrm se parlent à voix basse en français entre eux, pour représenter leur connivence. Mais la difficulté de diffusion du savoir dans ce monde explique que même avec ceux avec qui on cohabite la communication est difficile. Dans le monde d’Ebenaum, la civilisation est non seulement bien plus sophistiquée, mais également plus diffusée et normalisée, avec l’instauration d’une langue commune en plus des idiomes locaux. 
-Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
+Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. 
+Pour des raisons très pratiques, nous avons décidé de représenter la barrière de la langue en demandant aux habitants d’Erenthyrm de devoir parler en anglais, surtout en public. On pourra tolérer que des joueurs d’Erenthyrm se parlent à voix basse en français entre eux, pour représenter leur connivence. Mais la difficulté de diffusion du savoir dans ce monde explique que même avec ceux avec qui on cohabite la communication est difficile. Dans le monde d’Ebenaum, la civilisation est non seulement bien plus sophistiquée, mais également plus diffusée et normalisée, avec l’instauration d’une langue commune en plus des idiomes locaux.  
+Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. \img(/img/Speak.png, Langage, left, w300)
+Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
 __Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
 
@@ -336,6 +364,8 @@ Avant de vous ruer sur nos mails, messenger et autres pour nous demander où est
 Nous finissons avec une galerie de portrait des différents orgas, pour que vous sachiez qui vous allez devoir agresser pour trouver vos réponses ! 
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
+\img(/img/winter.png, Winter, center, )
+
 
 
  
