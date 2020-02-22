@@ -364,7 +364,7 @@ Avant de vous ruer sur nos mails, messenger et autres pour nous demander où est
 Nous finissons avec une galerie de portrait des différents orgas, pour que vous sachiez qui vous allez devoir agresser pour trouver vos réponses ! 
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
-\img(/img/winter.png, Winter, center, )
+\img(/img/winter.png, Winter, center)
 
 
 
