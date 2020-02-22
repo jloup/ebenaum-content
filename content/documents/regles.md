@@ -63,7 +63,7 @@ La beauté du geste vient ensuite. Nous vous encourageons à représenter le poi
 
 ##Compétences
 
-Vous seul et les Orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages. \img(/img/meal.jpg, Esbrouffe, right, w250)
+Vous seul et les Orgas connaissez les compétences que vous avez le droit d’utiliser, car elles vous auront été attribuées de façon personnalisée par les Orgas en amont du jeu, en se basant sur vos souhaits, caractéristiques et descriptions de personnages. \img(/img/meal.jpg, Esbrouffe, left, w300)
  Elles nécessitent quasiment toujours des conditions pour être effectuées, à vous de les respecter. Il existe de nombreuses compétences “uniques” dans notre système de jeu, il est donc normal que vous soyez surpris par ce que peut faire un personnage. Cela étant, les compétences sont là pour faciliter la représentation de certains “pouvoirs”, mais elles ne sont pas là pour remplacer le “roleplay” (RP). A vous de jouer au maximum l’annonce des compétences. Par exemple, si votre pouvoir consiste à torturer une personne pour lui faire avouer la vérité, ne vous contentez pas de lui lancer un “hey, salut. Au fait, TORTURE.”, mais essayez de jouer la scène, pour ensuite, si possible discrètement, annoncer l’effet à la victime, et, si besoin, lui expliquer ce qu’il se passe.  Dans le détail. En souriant.
 
 Certaines compétences peuvent être contrées, il faut aussi l’accepter ! En cas de doute sur une compétence, n’hésitez pas à venir en parler à un orga.  
