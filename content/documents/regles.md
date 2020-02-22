@@ -152,7 +152,7 @@ __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à te
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
 
 
-# Personnage
+# Votre Personnage
 
 ## Création de personnage
 
