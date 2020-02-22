@@ -240,23 +240,31 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
 ##Questions-Réponses pour les PNJ : 
-
-Oh toi PNJ clairvoyant__
+ \img(/img/penance.jpg, penance, right, w300)
+Oh toi PNJ clairvoyant
+__
 Ame de héros si charmant__
-A la merci de nos talents__
+A la merci de nos talents
 Et de nos âcres relents__
 
-Nous prions pour toi PNJ__
-Oui chaque matin c’est ainsi__
-Afin que ton coeur soit ravi__
+Nous prions pour toi PNJ
+__
+Oui chaque matin c’est ainsi
+__
+Afin que ton coeur soit ravi
+__
 Et ton bel estomac aussi__
 
-Pour que la chaleur t’épargne__
-Ou qu’il révèle tous tes charmes__
-Pour que Dame pluie te calme__
+Pour que la chaleur t’épargne
+__
+Ou qu’il révèle tous tes charmes
+__
+Pour que Dame pluie te calme
+__
 Sans éteindre ton héroïque flamme__
 
-Tout cela pour te dire merci__
+Tout cela pour te dire merci
+__
 Sans toi nous sommes du vrai pipi__
 
 
