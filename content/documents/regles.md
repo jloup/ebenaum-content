@@ -94,10 +94,10 @@ Détection|	Vous devez répondre "ICI" si vous entendez cet Appel.
 Couronne Bleue|	A proximité de cette personne (longueur d'arme) vous résistez à PEUR et EFFROI.					
 Couronne Jaune|	Cette personne impose un certain respect ou dégage une aura de charisme et confiance.				
 Couronne Rouge|	Cette personne dégage un effet d'EFFROI en permanence.					
-... Magique|	Rien ne vous permet de résister à cette attaque ou Skill.					
-... Contagieux|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
-... Puissant|	Considérez que l'effet est doublé ou triplé.					
-... De Mental 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
+...Magique|	Rien ne vous permet de résister à cette attaque ou Skill.					
+...Contagieux|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
+...Puissant|	Considérez que l'effet est doublé ou triplé.					
+...De Mental 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
 
 ##Actions de jeu
