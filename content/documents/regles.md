@@ -208,7 +208,7 @@ Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou
 
 ##Argent et expérience
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
-~ 
+
 # Sécurité
 
 ##Arrêt de jeu et Safe Word
@@ -244,7 +244,7 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 __Oh toi PNJ clairvoyant__
 __Ame de héros si charmant__
 __A la merci de nos talents__
-__Et de nos âcres relents__
+__Et de nos âcres relents 
 \img(/img/penance.jpg, penance, right,w400)
 __Nous prions pour toi PNJ__
 __Oui chaque matin c’est ainsi__
