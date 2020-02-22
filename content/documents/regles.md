@@ -241,10 +241,10 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 
 ##Questions-Réponses pour les PNJ : 
 
-__Oh toi PNJ clairvoyant__
+__O toi PNJ clairvoyant__
 __Ame de héros si charmant__
 __A la merci de nos talents__
-__Et de nos âcres relents__ 
+__Et de nos âcres relents__
 \img(/img/penance.jpg, penance, right, w400)
 __Nous prions pour toi PNJ__
 __Oui chaque matin c’est ainsi__
