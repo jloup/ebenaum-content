@@ -241,21 +241,21 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 
 ##Questions-Réponses pour les PNJ : 
 
-__Oh toi PNJ clairvoyant__
-__Ame de héros si charmant__
-__A la merci de nos talents__
-__Et de nos âcres relents 
-\img(/img/penance.jpg, penance, right,w400)
-__Nous prions pour toi PNJ__
-__Oui chaque matin c’est ainsi__
-__Afin que ton coeur soit ravi__
-__Et ton bel estomac aussi__
-__Pour que la chaleur t’épargne__
-__Ou qu’il révèle tous tes charmes__
-__Pour que Dame pluie te calme__
-__Sans éteindre ton héroïque flamme__
-__Tout cela pour te dire merci__
-__Sans toi nous sommes du vrai pipi__
+Oh toi PNJ clairvoyant
+Ame de héros si charmant
+A la merci de nos talents
+Et de nos âcres relents 
+\img(/img/penance.jpg, penance, right, w400)
+Nous prions pour toi PNJ
+Oui chaque matin c’est ainsi
+Afin que ton coeur soit ravi
+Et ton bel estomac aussi
+Pour que la chaleur t’épargne
+Ou qu’il révèle tous tes charmes
+Pour que Dame pluie te calme
+Sans éteindre ton héroïque flamme
+Tout cela pour te dire merci
+Sans toi nous sommes du vrai pipi
 
 *Aurais-je un rôle fixe?*
 Nous le savons, en règle générale les rôles  "fixes" ont du mal à être tenus lorsque nous sommes pressés d’aller enfiler notre costume en latex d’homme gorille à 35°C. Nous avons donc privilégié pleins de petits rôles de compositions ponctuels et d’autres plus importants. Ce sera à vous lors de votre inscription de nous dire ce que vous aimeriez. Nous avons à coeur de bichonner nos PNJ qui sont des rôles essentiels au bon déroulement d’un GN que cela soit en terme de scénario, de photographie ou de logistique. Pour que tout se passe au mieux, nous vous donnerons un emploi du temps avec les rôles que nous vous avons réservés ainsi que certaines petites tâches logistiques. Vous aurez, en plus, à disposition lors de vos “temps morts” une grille de “personnages autonomes” que vous pourrez incarner à votre guise durant le jeu. Nous vous laisserons en toute confiance nos costumes et matériel dédiés à disposition. Si vous avez en tête de idées de rôles, surtout n’hésitez pas à venir nous en faire part durant le jeu. Notre objectif est que vous vous amusiez et que vous incarniez des personnages qui vous font plaisir.
