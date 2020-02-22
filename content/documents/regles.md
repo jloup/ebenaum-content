@@ -71,7 +71,7 @@ La plupart des compétences vont générer un “EFFET” dont les plus courants
 
 Exemple de compétences qui pourront vous être attribuées : 
 __Réflexes du guerrier : Vous ne subissez aucun dégât sur le premier coup reçu au combat.__
-__Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur pendant une demie-journée après une messe de 10 minutes. +1 par joueur maximum. __ 
+__Ferveur divine : Vous pouvez augmenter de 1 le niveau d’Esprit d’un joueur pendant une demie-journée après une messe de 10 minutes. +1 par joueur maximum.__ 
 
 ##Effets
 
@@ -223,7 +223,7 @@ Si vous ressentez le moindre danger, si vous vous trouvez dans une situation qui
 
 ##Alcool et autres substances 
 Les substances illicites, sont, par définition, illicites. Thank you Captain Obvious.
-Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’évènement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
+Des Alcools doux tout mignon pourront être consommés avec modération et pour les personnes majeures, évidemment, à l’auberge ou pendant les repas. Nous insistons sur la nécessité d’avoir une consommation responsable et modérée d’alcool pendant l’événement. Un Jeu de rôle grandeur nature est un moment certes convivial, mais c’est avant tout un jeu qui demande un respect de l’autre, de la sécurité et un effort d’immersion dans le jeu. Tous ces aspects nécessitent lucidité et concentration. C’est pour cela que nous nous réservons le droit d’exclure toute personne en état d’ébriété avancé qui aurait une attitude dangereuse ou nuisible pour elle-même ou les autres et refuserait de se retirer du jeu le temps de retrouver sa clairvoyance. 
 Vous pouvez fumer en jeu (pipe ou cigarettes roulées pour rester roleplay) mais n’écrasez vos mégots que dans des cendriers et non pas sur le front de vos ennemis (il existe des cendriers portables). Si vous souhaitez fumer des cigarettes “modernes” merci de le faire dans la zone hors-jeu prévue.
 
 ##Types d'acteurs
@@ -240,32 +240,6 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
 ##Questions-Réponses pour les PNJ : 
-Oh toi PNJ clairvoyant
-__
-Ame de héros si charmant__
-A la merci de nos talents
-Et de nos âcres relents__
-
-Nous prions pour toi PNJ
-__
-Oui chaque matin c’est ainsi
-__
-Afin que ton coeur soit ravi
-__
-Et ton bel estomac aussi__
-
-Pour que la chaleur t’épargne
-__
-Ou qu’il révèle tous tes charmes
-__
-Pour que Dame pluie te calme
-__
-Sans éteindre ton héroïque flamme__
-
-Tout cela pour te dire merci
-__
-Sans toi nous sommes du vrai pipi__
-
 
 *Aurais-je un rôle fixe?*
 Nous le savons, en règle générale les rôles  "fixes" ont du mal à être tenus lorsque nous sommes pressés d’aller enfiler notre costume en latex d’homme gorille à 35°C. Nous avons donc privilégié pleins de petits rôles de compositions ponctuels et d’autres plus importants. Ce sera à vous lors de votre inscription de nous dire ce que vous aimeriez. Nous avons à coeur de bichonner nos PNJ qui sont des rôles essentiels au bon déroulement d’un GN que cela soit en terme de scénario, de photographie ou de logistique. Pour que tout se passe au mieux, nous vous donnerons un emploi du temps avec les rôles que nous vous avons réservés ainsi que certaines petites tâches logistiques. Vous aurez, en plus, à disposition lors de vos “temps morts” une grille de “personnages autonomes” que vous pourrez incarner à votre guise durant le jeu. Nous vous laisserons en toute confiance nos costumes et matériel dédiés à disposition. Si vous avez en tête de idées de rôles, surtout n’hésitez pas à venir nous en faire part durant le jeu. Notre objectif est que vous vous amusiez et que vous incarniez des personnages qui vous font plaisir.
