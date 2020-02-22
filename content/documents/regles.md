@@ -17,8 +17,7 @@ Les informations sur l’univers vous seront données dans vos fiches de personn
 |
 RP | Roleplay, ou jeu de rôle. C’est le fait de jouer un personnage.  
 Background | Histoire et personnalité de votre personnage. 
-PNJ| Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et/où aident à la logistique.
-Chifoumi | Partie de Pierre / Feuille / Ciseaux 
+PNJ| Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et aident à la logistique.
 -table-
  
  
