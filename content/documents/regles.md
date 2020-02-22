@@ -1,7 +1,7 @@
 # Présentation du GN 
 
 ## Introduction
-
+ \img(/img/marginal.jpg, Foster, right)
 Greetings, companerõs !  Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
 Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi à ton trépas), en commençant par une présentation générale des règles d’un jeu de rôle grandeur nature, que nous te conseillons de lire, même si tu es un·e vétéran du genre. On te voit, là, en train de chercher à scroller directement à la section “tuer des gens”.  
  
@@ -23,9 +23,9 @@ Orga | Organisateur
 -table-
  
  
-## Principes généraux 
+## Principes généraux
 Bon, tout d’abord, qu’est-ce qu’un GN ? Nous pensons à toi, jeune inconscient·e qui a été forcé·e de rejoindre notre équipage poussé par quelques personnes persuasives. Laisse-nous t’éclairer... 
-\img(/img/marginal.jpg, Foster, left)
+
 
 
 Un Jeu de rôle Grandeur Nature, abrégé donc “GN”, est un jeu dans lequel chaque personne joue un “rôle”, c’est à dire un personnage. Ce personnage a une histoire, des missions à remplir et des “compétences” particulières. La base du jeu repose sur l’observation, la discussion, et l’interaction. Promenez-vous, posez des questions en lien avec vos missions, faites vivre votre personnage et son histoire, et saisissez les opportunités qui se présentent. Pour interagir avec les autres, hormis les compétences particulières, vous n’aurez pas besoin de décrire une action, mais simplement de la faire. Si vous voulez voler un parchemin oublié sur une table, faites-le. Tant que cela reste dans les règles. L’important est de garder le rôle un maximum. C’est ce qu’on appelle le Roleplay (RP), même s’il est bien sûr autorisé de faire des “pauses” dans le jeu pour sortir du personnage quand vous le voulez. Cependant, comme dans un film, les interruptions ont tendance à casser l’immersion. Imaginez si dans un film d’action, l’acteur·rice faisait une pause en plein combat pour demander à ce qu’un·e assistant·e vienne le recoiffer... Il est donc conseillé de s’assurer que les autres joueurs·ses sont aussi prêts à faire une pause, et rester discret si possible, ou alors se mettre en retrait. Nous ne sommes pas draconiques, on peut tous faire des pauses et rigoler hors du jeu, mais essayons de ne pas briser l’élan des autres joueurs·ses !
