@@ -208,7 +208,7 @@ Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou
 
 ##Argent et expérience
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
-~ 
+
 # Sécurité
 
 ##Arrêt de jeu et Safe Word
@@ -234,18 +234,18 @@ Bénévoles| Ils se portent volontaires pour aider à des tâches purement logis
 Secouristes | joueurs ou autres, ils auront des bracelets bleu fluorescents. Ils peuvent interrompre une action à n'importe quel moment s'ils l'estiment nécessaire. 
 Les PNJ| bras armé des orgas, les Personnages Non Joueurs sont des personnes qui incarnent les monstres ainsi que de nombreux rôles "manipulés" par des orgas sadiques. En échange de leur dévotion et de possibles coups de main à la logistique, leur tarif d'inscription est préférentiel. 
 Les PJA | ce sont des joueurs qui représentent un "groupe" d'individus (un groupe de gardes, de chasseurs, etc...). Ils ont donc chacun plusieurs "vies", et sont plus à même de prendre des risques donc. Il est fort probable qu'ils doivent incarner plusieurs "variantes" de personnage, s'ils viennent à mourir. Pour marquer la transition, ils changeront un peu de costume et ils portent un élément fluorescent vert sur eux. Par souci de simplicité, on considérera au maximum que les informations se passent dans leur groupe d'un membre à l'autre. 
-Les PJ | ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
+Les PJ| ce sont les joueurs réguliers, avec des missions précises et un historique individuel personnalisé. 
 Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, et des missions. Normalement, ils ne joueront que ponctuellement des personnages. Ils sont souvent très sollicités, alors nous vous remercierons de les excuser s'ils sont un peu pressés, car les événements devront primer sur les questions des joueurs. 
 -table-
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
 ##Questions-Réponses pour les PNJ : 
 
-__Oh toi PNJ clairvoyant__
+__O toi PNJ clairvoyant__
 __Ame de héros si charmant__
 __A la merci de nos talents__
 __Et de nos âcres relents__
-\img(/img/penance.jpg, penance, right,w400)
+\img(/img/penance.jpg, penance, right, w400)
 __Nous prions pour toi PNJ__
 __Oui chaque matin c’est ainsi__
 __Afin que ton coeur soit ravi__
@@ -258,7 +258,7 @@ __Tout cela pour te dire merci__
 __Sans toi nous sommes du vrai pipi__
 
 *Aurais-je un rôle fixe?*
-Nous le savons, en règle générale les rôles  "fixes" ont du mal à être tenus lorsque nous sommes pressés d’aller enfiler notre costume en latex d’homme gorille à 35°C. Nous avons donc privilégié pleins de petits rôles de compositions ponctuels et d’autres plus importants. Ce sera à vous lors de votre inscription de nous dire ce que vous aimeriez. Nous avons à coeur de bichonner nos PNJ qui sont des rôles essentiels au bon déroulement d’un GN que cela soit en terme de scénario, de photographie ou de logistique. Pour que tout se passe au mieux, nous vous donnerons un emploi du temps avec les rôles que nous vous avons réservés ainsi que certaines petites tâches logistiques. Vous aurez, en plus, à disposition lors de vos “temps morts” une grille de “personnages autonomes” que vous pourrez incarner à votre guise durant le jeu. Nous vous laisserons en toute confiance nos costumes et matériel dédiés à disposition. Si vous avez en tête de idées de rôles, surtout n’hésitez pas à venir nous en faire part durant le jeu. Notre objectif est que vous vous amusiez et que vous incarniez des personnages qui vous font plaisir.
+Nous le savons, en règle générale les rôles "fixes" ont du mal à être tenus lorsque nous sommes pressés d’aller enfiler notre costume en latex d’homme gorille à 35°C. Nous avons donc privilégié pleins de petits rôles de compositions ponctuels et d’autres plus importants. Ce sera à vous lors de votre inscription de nous dire ce que vous aimeriez. Nous avons à coeur de bichonner nos PNJ qui sont des rôles essentiels au bon déroulement d’un GN que cela soit en terme de scénario, de photographie ou de logistique. Pour que tout se passe au mieux, nous vous donnerons un emploi du temps avec les rôles que nous vous avons réservés ainsi que certaines petites tâches logistiques. Vous aurez, en plus, à disposition lors de vos “temps morts” une grille de “personnages autonomes” que vous pourrez incarner à votre guise durant le jeu. Nous vous laisserons en toute confiance nos costumes et matériel dédiés à disposition. Si vous avez en tête de idées de rôles, surtout n’hésitez pas à venir nous en faire part durant le jeu. Notre objectif est que vous vous amusiez et que vous incarniez des personnages qui vous font plaisir.
 
 *Comment je m’habille?*
 Venez vêtu d’un costume de type médiéval fantastique neutre afin de déambuler tranquillement où vous voulez et incarner des petits rôles qui ne demandent pas de tenues particulières. Nous vous enverrons une grille de personnages à incarner, ainsi vous pourrez vous inscrire sur un type de rôle qui vous plaît et nous discuterons ensemble en amont costumes et maquillage. D’ailleurs pensez bien à nous dire en avance si vous êtes allergiques au latex ! 
@@ -364,7 +364,7 @@ Avant de vous ruer sur nos mails, messenger et autres pour nous demander où est
 Nous finissons avec une galerie de portrait des différents orgas, pour que vous sachiez qui vous allez devoir agresser pour trouver vos réponses ! 
 
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
-\img(/img/winter.png, Winter, center, )
+\img(/img/winter.png, Winter, center)
 
 
 
