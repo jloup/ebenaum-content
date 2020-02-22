@@ -209,20 +209,6 @@ Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou
 ##Argent et expérience
 Il n’y a pas de système de monnaie unique dans le monde, de par l’isolation des civilisations et de la rencontre des deux univers. Cependant, vous trouverez dans le jeu plusieurs méthodes de troc et de possibles monnaies que vous aurez à découvrir. L’une d’entre elles consiste dans des gemmes qui sont reconnues de valeurs par la plupart à cause de leurs mystérieuses propriétés. Elles n’ont pas de valeur bien précise, mais ces gemmes pourront être converties à la fin du jeu en “points d’expérience” qui pourront permettre différentes actions, et certaines seront allouées en fonction de ce que vous aurez accompli pendant le jeu.
 
-##Un mot sur la magie
-
-\img(/img/winter.png, Winter, right, w300)
-
-Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
-
-##Langage
-
-Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. \img(/img/Speak.png, Langage, left)
-Pour des raisons très pratiques, nous avons décidé de représenter la barrière de la langue en demandant aux habitants d’Erenthyrm de devoir parler en anglais, surtout en public. On pourra tolérer que des joueurs d’Erenthyrm se parlent à voix basse en français entre eux, pour représenter leur connivence. Mais la difficulté de diffusion du savoir dans ce monde explique que même avec ceux avec qui on cohabite la communication est difficile. Dans le monde d’Ebenaum, la civilisation est non seulement bien plus sophistiquée, mais également plus diffusée et normalisée, avec l’instauration d’une langue commune en plus des idiomes locaux. 
-Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
-__Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
-Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
-
 # Sécurité
 
 ##Arrêt de jeu et Safe Word
@@ -322,6 +308,22 @@ Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mot
 *La Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
 
 *Les voyageurs* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
+
+
+##Un mot sur la magie
+
+\img(/img/winter.png, Winter, right, w300)
+
+Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
+
+##Langage
+
+Nous sommes au regret de vous annoncer que lorsqu’on change de monde, il est fort à parier que les habitants que nous allons rencontrer ne parlent pas la même langue que nous. Pour représenter la barrière de la langue dûe à la multiplicité des “civilisations”, votre faculté à lire et parler dépendra de vos caractéristiques. \img(/img/Speak.png, Langage, left)
+Pour des raisons très pratiques, nous avons décidé de représenter la barrière de la langue en demandant aux habitants d’Erenthyrm de devoir parler en anglais, surtout en public. On pourra tolérer que des joueurs d’Erenthyrm se parlent à voix basse en français entre eux, pour représenter leur connivence. Mais la difficulté de diffusion du savoir dans ce monde explique que même avec ceux avec qui on cohabite la communication est difficile. Dans le monde d’Ebenaum, la civilisation est non seulement bien plus sophistiquée, mais également plus diffusée et normalisée, avec l’instauration d’une langue commune en plus des idiomes locaux. 
+Evidemment, nous avons conscience que tout le monde ne s’exprime pas ou ne connaît pas très bien l’anglais, mais c’est justement ce qui donnera sa beauté à la chose. Nous vous invitons donc lors du choix des caractéristiques à tenir compte de ce facteur : Si vous parlez très mal anglais et que vous voulez jouer dans la forêt, mieux vaut mettre peu de points dans “Savoir”. Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comprendre avec quelques mots simples, ou à l’aide de vos intonations et de votre gestuelle. 
+__Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
+Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
+
 
 #Conclusion
 
