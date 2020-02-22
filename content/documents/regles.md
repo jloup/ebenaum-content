@@ -14,10 +14,10 @@ Nous vous invitons donc à découvrir et bâtir ce monde dans lequel les aventur
 Les informations sur l’univers vous seront données dans vos fiches de personnages fin que chacun garde une part de surprise dans la rencontre avec les autres “camps”. Les règles ci-dessous concernent avant tout les mécaniques de jeu et l’organisation en général. Bonne lecture, et méfiez-vous du Crapaud.  Mais faites confiance à la mycose. Ou ne le faites pas.  
 
 -table-Lexique
-Chifoumi : une partie de Pierre / Feuille / Ciseaux 
-RP: le Roleplay, ou jeu de rôle. C’est le fait de jouer un personnage.  
-Background : l’histoire et la personnalité de votre personnage. 
-PNJ: Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et/où aident à la logistique.
+|
+RP | Roleplay, ou jeu de rôle. C’est le fait de jouer un personnage.  
+Background | Histoire et personnalité de votre personnage. 
+PNJ| Personnage non-joueur·se. C’est une personne qui incarne des personnages “d’ambiance” qui sont là pour servir à créer des obstacles pour les joueurs·ses ou à participer à l’atmosphère. Ils jouent souvent de nombreux rôles pendant le GN, et aident à la logistique.
 -table-
  
  
