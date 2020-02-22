@@ -240,7 +240,6 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
 ##Questions-Réponses pour les PNJ : 
- \img(/img/penance.jpg, penance, right, w300)
 Oh toi PNJ clairvoyant
 __
 Ame de héros si charmant__
