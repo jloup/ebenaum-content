@@ -239,6 +239,36 @@ Les Orgas| avec un bracelet rouge fluo au bras, ils sont en charge d'un groupe, 
 -table-
 *En cas d'urgence, il vaut mieux toujours se rendre au PC orga où le contacter.* De la même manière pour les questions. Le Pc Orga sera à même si nécessaire joindre les orgas concernés. 
 
+##Questions-Réponses pour les PNJ : 
+
+Oh toi PNJ clairvoyant__
+Ame de héros si charmant__
+A la merci de nos talents__
+Et de nos âcres relents__
+
+Nous prions pour toi PNJ__
+Oui chaque matin c’est ainsi__
+Afin que ton coeur soit ravi__
+Et ton bel estomac aussi__
+
+Pour que la chaleur t’épargne__
+Ou qu’il révèle tous tes charmes__
+Pour que Dame pluie te calme__
+Sans éteindre ton héroïque flamme__
+
+Tout cela pour te dire merci__
+Sans toi nous sommes du vrai pipi__
+
+
+Aurais-je un rôle fixe?
+Nous avons décidé de distribuer très peu de rôles fixes à nos PNJ cette année. Nous le savons, en règle générale ces rôles ont du mal à être tenus lorsque nous sommes pressés d’aller enfiler notre costume en latex d’homme gorille à 35°C. Nous avons donc privilégié pleins de petits rôles de compositions ponctuels et d’autres plus importants. Nous avons à coeur de bichonner nos PNJ qui sont à notre avis des rôles essentiels au bon déroulement d’un GN que cela soit en terme de scénario, de photographie ou de logistique. Pour que tout se passe au mieux, nous vous donnerons un emploi du temps avec les rôles que nous vous avons réservés ainsi que certaines petites tâches logistiques. Vous aurez, en plus, à disposition lors de vos “temps morts” une grille de “personnages autonomes” que vous pourrez incarner à votre guise durant le jeu. Nous vous laisserons en toute confiance nos costumes et matériel dédiés à disposition. Si vous avez en tête de idées de rôles surtout n’hésitez pas à venir nous en faire part durant le jeu. Notre objectif est que vous vous amusiez et que vous incarniez des personnages qui vous font plaisir.
+
+Comment je m’habille?
+Venez vêtu d’un costume de type médiéval fantastique neutre afin de déambuler tranquillement où vous voulez et incarner des petits rôles qui ne demandent pas de tenues particulières. Nous vous enverrons une grille de personnages à incarner, ainsi vous pourrez vous inscrire sur un type de rôle qui vous plaît et nous discuterons ensemble en amont costumes et maquillage. D’ailleurs pensez bien à nous dire en avance si vous êtes allergiques au latex ! 
+
+Vais-je passer mon GN à vider des toilettes sèches?
+Déjà, non car il n’y en a pas (on en est tellement fiers que dès qu’on peut le placer on le fait). Nous avons fait en sorte que tout le monde mette un peu la main à la pâte donc pas de panique. Vous aurez sur votre planning vos “missions logistiques”. On vous demandera d’être le.la plus ponctuel.le possible (que cela soit pour vos rôles dédiés ou pour votre coup de pouce logistique). On vous exploit...proposera de nous aider notamment sur la mise en place des repas (½ par jour et encore pas pour tout le monde).
+
 # Règles Logistiques
 
 ##Codes couleurs 
