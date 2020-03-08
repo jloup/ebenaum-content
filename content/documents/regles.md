@@ -295,7 +295,7 @@ Le PC orga n’est PAS ouvert à tout le monde. Il y aura un accueil dans lequel
 Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours, cela étant, nous ne pouvons pas totalement prévenir l’apparition de touristes sauvages. Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
 
 ## Hygiène et sommeil
-le terrain comporte des toilettes sèches, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. \img(/img/hildegunds.jpg, Duel, right) 
+le terrain comportera des toilettes, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. \img(/img/hildegunds.jpg, Duel, right) 
 Comme pour toute activité en extérieur en été, pensez à vous prémunir contre les bestioles rampantes et les insectes, notamment à vérifier chaque soir si vous n'avez pas récolté quelques tiques ! 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
 
@@ -318,8 +318,8 @@ Il y aura si tout va bien quelques douches solaires sur le site mais n’hésite
 
 ## Votre arrivée
 
-Le jeu se déroulera à XXXXXXXXXXX
-Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part. Des navettes depuis la grande gare la plus proche seront mises en place au besoin. 
+Le jeu se déroulera dans l'Indre, à une vingtaine de minutes de route de Cluis.
+Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part. Des navettes depuis la grande gare la plus proche (Chateauroux ou Argenton-sur-creuse) seront mises en place au besoin. 
 Lorsque vous arrivez, vous pouvez vous garer sur le parking temporaire qui sera indiqué. Nous vous demanderons de venir nous prévenir de votre arrivée au PC orga, puis de décharger vos affaires et monter votre camp (vous pourrez éventuellement y aller en voiture). Vous devrez ensuite garer votre voiture au parking. Puis vous irez voir votre référent·e au PC orga pour un briefing personnel si besoin, et surtout recevoir votre enveloppe de jeu. Si vous n’avez pas pu trouver d’imprimante, on pourra vous imprimer votre feuille ou un livret. Ensuite, il sera temps pour vous d’aller vous pouponner et de venir ripailler. 
 *Il est important* que vous restiez un maximum dans vos camps en attendant le début du jeu, pour ne pas vous gâcher la surprise ! 
 Nous vous conseillons d’arriver en début d’après-midi afin de vous installer tranquillement et d’être prêts·es  pour le briefing général qui aura lieu à 20h30. Un briefing de groupe et PNJ sera prévu à 21h00 le début de jeu étant prévu pour 21h30.  Si vous arrivez en retard, équipez-vous, puis dirigez-vous vers le PC orga pour qu'un orga vous briefe. Si vous souhaitez arriver avant et/ou rester après jusqu’au lundi pour donner un petit coup de main et ou profiter de la région, vous êtes évidemment les bienvenus·es ;)  
@@ -335,9 +335,9 @@ Sans écoles, dans un monde où les histoires sont rares et la survie plus impor
 Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
 *Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ? Parfait pour les vétérans d'Ebenaum ou si vous venez seul ou à deux ou trois personnes. Cependant, ce groupe est soumis à des pressions importantes !
 \img(/img/Ven.jpg, Ven, right)
-*La Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
+*Le Logis de borde-Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
 
-*Les voyageurs* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
+*Les vagabonds* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
 
 
 ##Un mot sur la magie
