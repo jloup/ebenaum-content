@@ -85,9 +85,11 @@ Souffrance Mentale|	Comme Souffrance, mais n'étant pas physique, vous ne pouvez
 Exécution |	Vous faites tomber à 0 PV, et vous ne pouvez plus gémir ou gesticuler lors de votre agonie. 					
 Choc |	Vous subissez un choc et reculez de 5 pas, voire tombez au sol. Vous pouvez aussi jouer un étourdissement.					
 Peur |	Vous vous enfuyez en hurlant loin de la cible pendant 5 à 10 secondes.					
-Repousser |	Vous devez vous tenir hors de portée d'arme de la cible avec méfiance.					
+Repousser |	Vous devez vous tenir hors de portée d'arme de la cible avec méfiance.	
+Confusion | vous restez hébété pendant 10 secondes, oubliant la scène, à moins d'être blessé.
 Entorse |	Vous ne pouvez plus utiliser le membre visé tant qu'il n'aura pas été remis par un ami.					
-Désarmer|	Vous devez jeter votre arme comme si quelqu'un venait de frapper dans votre main					
+Désarmer|	Vous devez jeter votre arme comme si quelqu'un venait de frapper dans votre main			
+Brise | votre arme est brisée, vous avez besoin de retourner à votre "base" ou d'un forgeron.
 Injonction |	vous devez obéir à l'ordre simple qui vous sera donné ensuite.					
 Résiste|	Permet d'annuler un effet. Attention, on peut résister à un effet sans forcément l'annoncer. 					
 Apaisement|	Arrête les effets d'une Souffrance.					
@@ -98,7 +100,8 @@ Couronne Jaune|	Cette personne impose un certain respect ou dégage une aura de 
 Couronne Rouge|	Cette personne dégage un effet d'EFFROI en permanence.					
 ...Magique|	Rien ne vous permet de résister à cette attaque ou Skill.					
 ...Contagieux|	Vous devez transmettre l'effet à la prochaine personne que vous croisez.					
-...Puissant|	Considérez que l'effet est doublé ou triplé.					
+...Puissant|	Considérez que l'effet est doublé. 
+...Sombre | N'a pas d'effets, particulier. Sert seulement à "freiner" les attaques. 
 ...De Mental 3|	Effet soumis à un niveau de caractéristique. Si votre niveau de caractéristique concernée est niveau égal ou supérieur, vous résistez.
 -table-					
 
@@ -153,6 +156,7 @@ __Les points de vie ne sont pas localisés, mais vous êtes encouragé·es à te
 
 Chaque coup porté qui touche la cible enlève 1 point de vie, sauf si l’attaquant annonce “DEUX” en frappant ou un autre chiffre. De la même manière, si l’attaque est accompagnée d’un “Effet” (exemple : “DEUX CHOC”) l’effet est appliqué seulement si vous êtes touché·e par le coup.    
 
+Quelles que soient les circonstances, aucun PERSONNAGE JOUEUR ne pourra infliger plus de 4 dégâts par une attaque au corps à corps ni plus de 6 dégâts par un sortilège. En réalité, ce serait déjà exceptionnel qu'une attaque ou un sort infligent plus de 3 dégâts, mais sous certaines circonstances, peut-être que certains parviendront à ce score ! Il n'est également pas possible pour un personnage joueur de cumuler plus de 10 points de vie. 
 
 # Votre Personnage
 
