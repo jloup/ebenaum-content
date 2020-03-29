@@ -179,14 +179,14 @@ Le “niveau” de chaque branche va vous permettre de débloquer certaines comp
 Les niveaux d’une branche vont de –2 à 4.  
 Le niveau d’une caractéristique correspond à celui la branche la plus élevée. Pendant le jeu, il est possible que certains événements influent ou jouent avec votre niveau de caractéristique. Mais si vous perdez des points dans une caractéristique, cela ne change rien à vos bonus et compétences déjà acquis. Le niveau d’une caractéristique n’est utile que pour certains tests à passer ou certaines compétences.  __(Par exemple, vous buvez une potion dont le papier dit “si vous avez moins de 3 en PHYSIQUE, vous perdez 3 PVs)__
 
-ADRESSE : représente votre maîtrise des arts et techniques. Très important pour les artisans, mages...
-GEAR    : Votre richesse et votre équipement de début de jeu. Vous pourrez en acheter certains en jeu, mais au prix fort. 
-CHARISME : Déterminera votre réputation, mais peut également intervenir dans certaines compétences de prêtres, mages, marchands...
-MENTAL : Définit votre capacité à résister à la peur ou non, ainsi qu'aux manipulations ou attaques mentales.
-FORCE : Vous pourrez manier certaines armes plus que d'autres et infliger davantage de dégâts si vous montez cette dernière.
-ENDURANCE : Votre nombre de points de vie dépend de cette dernière. 
-SAGESSE : Vos compétences linguistiques, mais donne aussi des informations importantes. Peut influer les compétences de conception et magie.
-DISCIPLINE : C'est elle qui déterminera le nombre de "compétences" personnalisées différentes que vous aurez. 
+**ADRESSE** : représente votre maîtrise des arts et techniques. Très important pour les artisans, mages...
+**GEAR**: Votre richesse et votre équipement de début de jeu. Vous pourrez en acheter certains en jeu, mais au prix fort. 
+**CHARISME** : Déterminera votre réputation, mais peut également intervenir dans certaines compétences de prêtres, mages, marchands...
+**MENTAL** : Définit votre capacité à résister à la peur ou non, ainsi qu'aux manipulations ou attaques mentales.
+**FORCE** : Vous pourrez manier certaines armes plus que d'autres et infliger davantage de dégâts si vous montez cette dernière.
+**ENDURANCE** : Votre nombre de points de vie dépend de cette dernière. 
+**SAGESSE** : Vos compétences linguistiques, mais donne aussi des informations importantes. Peut influer les compétences de conception et magie.
+**DISCIPLINE** : C'est elle qui déterminera le nombre de "compétences" personnalisées différentes que vous aurez. 
 
 Un joueur avec peu de Discipline mais beaucoup d'Adresse aura par exemple 1 compétence d'herboristerie, mais avec une longue liste de recettes. Inversement, si vous avez plusieurs "dons" en Discipline mais peu d'adresse, vous pourrez par exemple avoir 1 recette d'herboristerie, une compétence de pistage, et une autre de résistance aux poisons. 
 Comme écrit plus haut, les compétences peuvent influer des actions de jeu, mais également des compétences. 
